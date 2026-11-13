@@ -1,0 +1,8 @@
+*.mp4
+*.wav
+*.mp3
+*.jpg
+seg/
+frames/
+node_modules/
+*.part.mp4

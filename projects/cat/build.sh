@@ -1,0 +1,1 @@
+cd /home/claude/cat; (echo "// CAT"; cat partA0.js; echo; cat kM.js partA1.js; echo; cat cS.js cFX.js kW.js kQ.js; if [ "$1" = test ]; then cat kT.js; else cat kO.js kE.js kA.js kD0.js kD1.js kD2.js; fi) > kmain.js

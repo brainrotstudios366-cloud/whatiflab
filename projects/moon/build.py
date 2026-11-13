@@ -1,0 +1,1 @@
+exec(open('/home/claude/gravity/build.py').read().replace("open('gravity.html','w').write(eng+block+helpers+open('part_g_scenes.js').read())","pg=open('/home/claude/gravity/part_g_scenes.js').read();pg=pg[:pg.index('// ---------------- OVERLAYS')];open('/home/claude/moon/moon.html','w').write(eng+block+helpers+pg+open('/home/claude/moon/part_m.js').read())"))
