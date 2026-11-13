@@ -1,0 +1,1 @@
+cd /home/claude/work/bh; (echo "// BLACK HOLE (Sgr A*) – Puck VO"; cat partA0.js; echo; cat b0.js partA1.js; echo; cat cS.js cFX.js bM0.js; echo; cat bM1.js vo.js qitems.js bA.js bD0.js bD1.js bF.js) > bmain.js

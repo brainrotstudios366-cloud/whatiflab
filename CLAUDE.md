@@ -69,7 +69,7 @@ Copy the closest project as template:
 cp -r /home/claude/whatiflab/projects/<template> /home/claude/work/<slug> && cd /home/claude/work/<slug>
 grep -rl "/home/claude/<template>" . | xargs sed -i "s#/home/claude/<template>#/home/claude/work/<slug>#g"
 ```
-Templates: `ant` (ant model, rounds, bomb/asteroid/sun/black hole FX), `nova` (hypernova vs ant), `samurai`, `chess`, `cat` (vs format with many units),
+Templates: `asteroid` (newest vs-ant: meteors, aurora, autumn leaf), `sgra` (black hole + astronaut, Puck VO, newest space template), `ant` (ant model, rounds, bomb/asteroid/sun/black hole FX), `nova` (hypernova vs ant), `samurai`, `chess`, `cat` (vs format with many units),
 `neptune` (best quality: planets, cutaway, molecules, diamonds, lab, 2D galaxy, mascot Q, word-by-word captions, Puck VO), `bread`/`lamp`/`house` (story),
 `magnets`/`friction`/`oxygen`/`gravity`/`moon`/`tsunami` (what-if-disappeared sims), `anti`/`light`/`timed`/`tunnel`/`zero` (2D canvas explainers – weaker, avoid).
 Engine facts (neptune-style, split files concatenated by `build.sh` into one main js loaded by the html):
@@ -83,7 +83,7 @@ Style: "Neon Space Lab" – bg #05061A, cyan #5AF0FF, yellow #FFD84A key facts, 
 `node rt.js <times…>` → `python3 sheet.py sheet.jpg <times…>` → Read the sheet. Check 12–16 frames across the whole video:
 captions readable & not covering the subject, nothing clipped or overlapping, no black/empty frames, no NaN-invisible objects, facts on screen correct,
 3D looks premium (smooth, emissive glows, no flat grey). Fix and re-check until you would be proud of it. Then render:
-`./runall.sh > render.log 2>&1` via Bash `run_in_background` with **timeout 7200000** (default 30 min kills it; it resumes finished segments).
+`nohup setsid ./runall.sh > render.log 2>&1 < /dev/null &` (Bash has NO run_in_background parameter here), then poll with `sleep 540; ls seg; tail render.log` (timeout 600000). It resumes finished segments if re-run. Typical: ~25–50 min.
 After render: contact sheet of 24 frames from the final mp4 + `volumedetect` (mean ≈ -17 dB, max ≤ -0.5). Fix anything wrong (re-render only affected segments).
 
 ## 6. Audio
