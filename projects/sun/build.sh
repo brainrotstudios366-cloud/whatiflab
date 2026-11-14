@@ -1,0 +1,1 @@
+cd /home/claude/work/sun; (echo "// SUN VANISHES 5s – what-if sim"; cat partA0.js; echo; cat b0.js partA1.js; echo; cat cS.js cFX.js bM0.js; echo; cat sM.js v0.js qitems.js bD0.js sA.js sD.js bF.js) > smain.js
