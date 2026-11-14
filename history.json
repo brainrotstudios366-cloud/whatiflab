@@ -1,29 +1,235 @@
 [
- {"date": "2026-10-29", "slug": "magnets", "title": "What if every magnet disappeared for 5 seconds?", "format": "what-if-disappeared", "views": 3654},
- {"date": "2026-10-30", "slug": "friction", "title": "What if friction disappeared for 5 seconds?", "format": "what-if-disappeared", "views": 335},
- {"date": "2026-10-30", "slug": "oxygen", "title": "What if oxygen disappeared for 5 seconds?", "format": "what-if-disappeared", "views": 176},
- {"date": "2026-10-31", "slug": "gravity", "title": "What if gravity disappeared for 5 seconds?", "format": "what-if-disappeared", "views": 340},
- {"date": "2026-10-31", "slug": "tsunami", "title": "Tsunami reply", "format": "what-if-disappeared", "views": 181},
- {"date": "2026-10-31", "slug": "moon", "title": "What if the Moon disappeared for 5 seconds?", "format": "what-if-disappeared", "views": 241},
- {"date": "2026-11-02", "slug": "jump", "title": "Every jump doubles your jump height", "format": "doubles", "views": 271},
- {"date": "2026-11-02", "slug": "speed", "title": "Every second your speed doubles", "format": "doubles", "views": 853},
- {"date": "2026-11-03", "slug": "aura", "title": "Every second your aura doubles", "format": "doubles", "views": 276},
- {"date": "2026-11-03", "slug": "ant", "title": "Atomic bomb vs one dying ant", "format": "vs-ant", "views": 4421},
- {"date": "2026-11-03", "slug": "phone", "title": "would you pick up", "format": "story", "views": 464},
- {"date": "2026-11-04", "slug": "roman", "title": "Ant vs the entire Roman Empire part 2", "format": "vs-ant", "views": 267},
- {"date": "2026-11-05", "slug": "nova", "title": "Hypernova vs a dying ant", "format": "vs-ant", "views": 1464},
- {"date": "2026-11-06", "slug": "samurai", "title": "1000 ninjas, a meteor, a tsunami & a dragon vs ONE samurai", "format": "vs-one", "views": 1416},
- {"date": "2026-11-09", "slug": "chess", "title": "A knight, a bishop, a rook & the queen vs ONE pawn", "format": "vs-one", "views": 787},
- {"date": "2026-11-10", "slug": "cat", "title": "A dog army, a robot vacuum, a UFO & a bear vs ONE cat", "format": "vs-one", "views": 764},
- {"date": "2026-11-10", "slug": "bread", "title": "They laughed at the bread boy", "format": "story", "views": 760},
- {"date": "2026-11-10", "slug": "lamp", "title": "Never let the lamps go out", "format": "story", "views": 739},
- {"date": "2026-11-11", "slug": "house", "title": "How many houses did you count", "format": "story", "views": 296},
- {"date": "2026-11-12", "slug": "anti", "title": "What is antimatter", "format": "explainer-2d", "views": 238},
- {"date": "2026-11-12", "slug": "light", "title": "Why can't anything go faster than light", "format": "explainer-2d", "views": 238},
- {"date": "2026-11-13", "slug": "neptune", "title": "It rains diamonds on Neptune", "format": "space-whatif-puck", "views": null},
- {"date": "2026-11-13", "slug": "timed", "title": "Time dilation", "format": "explainer-2d", "views": null, "note": "made, maybe not posted"},
- {"date": "2026-11-13", "slug": "tunnel", "title": "Quantum tunneling", "format": "explainer-2d", "views": null, "note": "made, maybe not posted"},
- {"date": "2026-11-13", "slug": "zero", "title": "Absolute zero", "format": "explainer-2d", "views": null, "note": "made, maybe not posted"},
- {"date": "2026-11-13", "slug": "asteroid", "title": "Asteroid vs ONE dying ant", "format": "vs-ant", "trend": "#asteroidimpact (x34.7 rising, TikTok Science 7d US) + #geomagneticstorm/#spaceweather + Leonids", "hashtags": ["#asteroidimpact", "#whowins", "#3danimations", "#ant", "#fyp", "#viral", "#space"], "duration": 63, "views": null},
- {"date": "2026-11-13", "slug": "sgra", "title": "What if you fell into Sagittarius A*?", "format": "space-whatif-puck", "trend": "#sagittariusa (x8.6 rising, TikTok Science 7d US) + payoff of the Neptune video teaser", "hashtags": ["#sagittariusa", "#blackhole", "#space", "#science", "#3danimation", "#fyp", "#whatif"], "duration": 68, "views": null}
+ {
+  "date": "2026-10-29",
+  "slug": "magnets",
+  "title": "What if every magnet disappeared for 5 seconds?",
+  "format": "what-if-disappeared",
+  "views": 3654
+ },
+ {
+  "date": "2026-10-30",
+  "slug": "friction",
+  "title": "What if friction disappeared for 5 seconds?",
+  "format": "what-if-disappeared",
+  "views": 335
+ },
+ {
+  "date": "2026-10-30",
+  "slug": "oxygen",
+  "title": "What if oxygen disappeared for 5 seconds?",
+  "format": "what-if-disappeared",
+  "views": 176
+ },
+ {
+  "date": "2026-10-31",
+  "slug": "gravity",
+  "title": "What if gravity disappeared for 5 seconds?",
+  "format": "what-if-disappeared",
+  "views": 340
+ },
+ {
+  "date": "2026-10-31",
+  "slug": "tsunami",
+  "title": "Tsunami reply",
+  "format": "what-if-disappeared",
+  "views": 181
+ },
+ {
+  "date": "2026-10-31",
+  "slug": "moon",
+  "title": "What if the Moon disappeared for 5 seconds?",
+  "format": "what-if-disappeared",
+  "views": 241
+ },
+ {
+  "date": "2026-11-02",
+  "slug": "jump",
+  "title": "Every jump doubles your jump height",
+  "format": "doubles",
+  "views": 271
+ },
+ {
+  "date": "2026-11-02",
+  "slug": "speed",
+  "title": "Every second your speed doubles",
+  "format": "doubles",
+  "views": 853
+ },
+ {
+  "date": "2026-11-03",
+  "slug": "aura",
+  "title": "Every second your aura doubles",
+  "format": "doubles",
+  "views": 276
+ },
+ {
+  "date": "2026-11-03",
+  "slug": "ant",
+  "title": "Atomic bomb vs one dying ant",
+  "format": "vs-ant",
+  "views": 4421
+ },
+ {
+  "date": "2026-11-03",
+  "slug": "phone",
+  "title": "would you pick up",
+  "format": "story",
+  "views": 464
+ },
+ {
+  "date": "2026-11-04",
+  "slug": "roman",
+  "title": "Ant vs the entire Roman Empire part 2",
+  "format": "vs-ant",
+  "views": 267
+ },
+ {
+  "date": "2026-11-05",
+  "slug": "nova",
+  "title": "Hypernova vs a dying ant",
+  "format": "vs-ant",
+  "views": 1464
+ },
+ {
+  "date": "2026-11-06",
+  "slug": "samurai",
+  "title": "1000 ninjas, a meteor, a tsunami & a dragon vs ONE samurai",
+  "format": "vs-one",
+  "views": 1416
+ },
+ {
+  "date": "2026-11-09",
+  "slug": "chess",
+  "title": "A knight, a bishop, a rook & the queen vs ONE pawn",
+  "format": "vs-one",
+  "views": 787
+ },
+ {
+  "date": "2026-11-10",
+  "slug": "cat",
+  "title": "A dog army, a robot vacuum, a UFO & a bear vs ONE cat",
+  "format": "vs-one",
+  "views": 764
+ },
+ {
+  "date": "2026-11-10",
+  "slug": "bread",
+  "title": "They laughed at the bread boy",
+  "format": "story",
+  "views": 760
+ },
+ {
+  "date": "2026-11-10",
+  "slug": "lamp",
+  "title": "Never let the lamps go out",
+  "format": "story",
+  "views": 739
+ },
+ {
+  "date": "2026-11-11",
+  "slug": "house",
+  "title": "How many houses did you count",
+  "format": "story",
+  "views": 296
+ },
+ {
+  "date": "2026-11-12",
+  "slug": "anti",
+  "title": "What is antimatter",
+  "format": "explainer-2d",
+  "views": 238
+ },
+ {
+  "date": "2026-11-12",
+  "slug": "light",
+  "title": "Why can't anything go faster than light",
+  "format": "explainer-2d",
+  "views": 238
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "neptune",
+  "title": "It rains diamonds on Neptune",
+  "format": "space-whatif-puck",
+  "views": null
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "timed",
+  "title": "Time dilation",
+  "format": "explainer-2d",
+  "views": null,
+  "note": "made, maybe not posted"
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "tunnel",
+  "title": "Quantum tunneling",
+  "format": "explainer-2d",
+  "views": null,
+  "note": "made, maybe not posted"
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "zero",
+  "title": "Absolute zero",
+  "format": "explainer-2d",
+  "views": null,
+  "note": "made, maybe not posted"
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "asteroid",
+  "title": "Asteroid vs ONE dying ant",
+  "format": "vs-ant",
+  "trend": "#asteroidimpact (x34.7 rising, TikTok Science 7d US) + #geomagneticstorm/#spaceweather + Leonids",
+  "hashtags": [
+   "#asteroidimpact",
+   "#whowins",
+   "#3danimations",
+   "#ant",
+   "#fyp",
+   "#viral",
+   "#space"
+  ],
+  "duration": 63,
+  "views": null
+ },
+ {
+  "date": "2026-11-13",
+  "slug": "sgra",
+  "title": "What if you fell into Sagittarius A*?",
+  "format": "space-whatif-puck",
+  "trend": "#sagittariusa (x8.6 rising, TikTok Science 7d US) + payoff of the Neptune video teaser",
+  "hashtags": [
+   "#sagittariusa",
+   "#blackhole",
+   "#space",
+   "#science",
+   "#3danimation",
+   "#fyp",
+   "#whatif"
+  ],
+  "duration": 68,
+  "views": null
+ },
+ {
+  "date": "2026-11-14",
+  "slug": "aliens",
+  "title": "Alien invasion vs ONE dying ant",
+  "format": "vs-ant",
+  "trend": "#fermiparadox (x13.9 rising, TikTok Science 7d US)",
+  "hashtags": [
+   "#fermiparadox",
+   "#whowins",
+   "#3danimations",
+   "#ant",
+   "#aliens",
+   "#ufo",
+   "#fyp",
+   "#viral"
+  ],
+  "duration": 65,
+  "views": null
+ }
 ]
