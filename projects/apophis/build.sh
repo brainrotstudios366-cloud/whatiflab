@@ -1,0 +1,1 @@
+cd /home/claude/work/apophis; (echo "// APOPHIS – Puck VO"; cat partA0.js; echo; cat b0.js partA1.js; echo; cat cS.js cFX.js bM0.js; echo; cat sM.js aM.js vo.js qitems.js bD0.js aA.js aD.js bF.js) > amain.js

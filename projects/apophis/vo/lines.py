@@ -1,0 +1,13 @@
+L=["A giant asteroid is about to fly closer to Earth than our satellites. And we know the exact date.",
+"April thirteenth, twenty twenty-nine. Its name? Apophis. The god of chaos.",
+"It's longer than the Empire State Building is tall, and weighs about twenty million tons.",
+"It will pass closer than our weather satellites. Just thirty-two thousand kilometers away!",
+"So close, you could see it with your own eyes. No telescope needed.",
+"But wait... what if it actually hit us?",
+"Boom. More than one thousand megatons. Twenty times the biggest bomb ever tested.",
+"Destruction for hundreds of kilometers around the crater.",
+"So... should we panic? Nope!",
+"NASA's radar ruled it out. No impact for at least one hundred years.",
+"Instead, Earth wins. Our gravity could shake the asteroid, triggering quakes and landslides on it!",
+"And a NASA spacecraft, OSIRIS-APEX, will be right there to watch.",
+"A flyby this close happens only once every few thousand years. Follow, so you don't miss it!"]

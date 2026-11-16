@@ -60,7 +60,7 @@ Two sound styles exist – choose per format:
 ```
 Synthesize the WHOLE script in ONE call (consistent voice). The wav is saved under the tool-results folder.
 Split into lines: `ffmpeg -af silencedetect=n=-38dB:d=0.12`, map paragraph pauses to line ends (check syllables/sec ≈ constant ~4.3), cut each line with **input seeking** (`ffmpeg -ss A -to B -i full.wav -af "silenceremove…,areverse,silenceremove…,areverse,atempo=1.04"`; output seeking + areverse breaks!).
-Word timings: `projects/neptune/vo/align2.py` pattern (syllable/pause groups) → `vo.js`. Then derive scene events (EV) from word times (e.g. explosion exactly on the word "lasers").
+Word timings: EASIEST = Speko `audio_transcribe` (synth url, `word_timestamps:true`), see projects/apophis/README.txt; fallback `projects/neptune/vo/align2.py` pattern (syllable/pause groups) → `vo.js`. Then derive scene events (EV) from word times (e.g. explosion exactly on the word "lasers").
 If Speko fails: retry once; if still down make a NO-narrator sim video instead (never block).
 
 ## 4. Build the video (3D WebGL engine)
