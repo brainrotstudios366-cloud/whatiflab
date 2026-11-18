@@ -1,0 +1,1 @@
+cd /home/claude/work/air; (echo "// EARTH'S AIR DISAPPEARS 5s – what-if sim"; cat partA0.js; echo; cat b0.js partA1.js; echo; cat cS.js cFX.js bM0.js; echo; cat sM.js v0.js qitems.js bD0.js aM.js aT.js aH.js aD.js bF.js) > smain.js
