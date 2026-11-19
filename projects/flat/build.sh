@@ -1,0 +1,1 @@
+cd /home/claude/work/flat; (echo "// FLAT EARTH – Puck VO"; cat partA0.js; echo; cat b0.js partA1.js; echo; cat cS.js cFX.js bM0.js; echo; cat sM.js fM.js vo.js qitems.js bD0.js fH.js fA.js bF.js) > fmain.js
