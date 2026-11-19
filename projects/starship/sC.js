@@ -1,0 +1,43 @@
+// ================= samurai poses =================
+const PS={};
+PS.stand=P_({pel:{y:0.92},fR:[-0.14,0.07,-0.02],fL:[0.15,0.07,0.06],hR:[-0.27,-0.08,0.06],hL:[0.19,-0.04,0.2],sw:'sheath',lid:0.25});
+PS.iai=P_({pel:{y:0.86,p:0.06},tor:{tw:-0.12,b:0.08},head:{p:0.08},fR:[-0.22,0.07,-0.16],fL:[0.17,0.07,0.22],hR:[0.12,0.0,0.32],hL:[0.2,-0.05,0.2],sw:'sheath',lid:0.92});
+PS.spin=P_({pel:{y:0.8,p:0.1},tor:{b:0.12},fR:[-0.36,0.07,-0.08],fL:[0.32,0.07,0.18],hR:[-0.6,0.3,0.12],hL:[0.55,0.28,-0.1],sd:[-1,0.02,0.2],sw:'hand',lid:0.4});
+PS.follow=P_({pel:{y:0.68,p:0.25},tor:{tw:0.45,b:0.3},fR:[-0.5,0.07,-0.3],fL:[0.42,0.07,0.45],hR:[-0.55,0.1,0.35],hL:[0.5,0.15,-0.15],sd:[-0.75,-0.35,0.55],sw:'hand',lid:0.55});
+PS.sheathA=P_({pel:{y:0.84,p:0.05},tor:{tw:0.4,b:0.05},fR:[-0.25,0.07,-0.12],fL:[0.2,0.07,0.2],hR:[0.0,0.12,0.5],hL:[0.21,-0.05,0.18],sw:'hand',lid:0.6});
+PS.seiza=P_({pel:{y:0.47},fR:[-0.11,0.06,-0.22],fL:[0.11,0.06,-0.22],hR:[-0.16,-0.2,0.3],hL:[0.16,-0.2,0.3],sw:'sheath',lid:0.75});
+PS.tea=P_(Object.assign({},PS.seiza,{hR:[-0.05,0.47,0.25],hL:[0.05,0.38,0.27],head:{p:0.18},lid:0.9}));
+PS.lookup=P_(Object.assign({},PS.stand,{head:{p:-0.5},lid:0.05,browA:0.38}));
+PS.crouch=P_({pel:{y:0.62,p:0.35},tor:{b:0.2},fR:[-0.3,0.07,-0.25],fL:[0.28,0.07,0.3],hR:[0.12,0.0,0.32],hL:[0.21,-0.05,0.2],sw:'sheath',head:{p:-0.55},lid:0.05,browA:0.4});
+PS.jodan=P_({pel:{y:0.86},tor:{b:-0.05},fR:[-0.2,0.07,-0.2],fL:[0.15,0.07,0.25],hR:[-0.03,0.75,0.15],sd:[0,0.55,-0.83],sh:[1,0,0],sw:'hand',twoHand:true,lid:0.15,head:{p:-0.2},browA:0.38});
+PS.cutlow=P_({pel:{y:0.7,p:0.3},tor:{b:0.35},fR:[-0.25,0.07,-0.35],fL:[0.2,0.07,0.45],hR:[-0.03,0.0,0.5],sd:[0,-0.55,0.83],sh:[1,0,0],sw:'hand',twoHand:true,lid:0.45});
+PS.jump=P_({pel:{y:0.9},tor:{b:-0.1},fR:[-0.15,0.5,-0.15],fL:[0.15,0.45,0.1],hR:[-0.03,0.75,0.12],sd:[0,0.55,-0.83],sh:[1,0,0],sw:'hand',twoHand:true,head:{p:-0.35},lid:0.05,browA:0.4});
+PS.jumpcut=P_({pel:{y:0.9},tor:{b:0.4},fR:[-0.15,0.35,-0.2],fL:[0.15,0.45,0.15],hR:[-0.03,0.05,0.55],sd:[0,-0.45,0.89],sh:[1,0,0],sw:'hand',twoHand:true,head:{p:0.0},lid:0.3,browA:0.4});
+PS.land=P_({pel:{y:0.52,p:0.45},tor:{b:0.3,tw:0.2},fR:[-0.3,0.07,-0.45],fL:[0.28,0.07,0.35],hR:[-0.6,0.05,0.25],hL:[0.35,-0.05,0.35],sd:[-0.85,-0.45,0.25],sw:'hand',lid:0.55,head:{p:-0.1}});
+PS.chudan=P_({pel:{y:0.84},fR:[-0.2,0.07,-0.2],fL:[0.16,0.07,0.25],hR:[-0.04,0.12,0.36],sd:[0,0.5,0.86],sh:[1,0,0],sw:'hand',twoHand:true,lid:0.1,head:{p:-0.3},browA:0.4});
+PS.block=P_(Object.assign({},PS.chudan,{hR:[-0.04,0.3,0.45],hL:[0.1,0.25,0.42],twoHand:false,sw:'spin'}));
+PS.pat=P_(Object.assign({},PS.stand,{hL:[0.28,0.3,0.55],head:{p:0.0,y:0.4},lid:0.55}));
+PS.s1a=P_({pel:{y:0.84},tor:{tw:-0.4},fR:[-0.22,0.07,-0.15],fL:[0.18,0.07,0.22],hR:[-0.35,0.62,0.15],sd:[-0.3,0.8,-0.4],sh:[1,0,0],sw:'hand',twoHand:true,lid:0.0,browA:0.45,mouth:'open'});
+PS.s1b=P_({pel:{y:0.78,p:0.2},tor:{tw:0.4,b:0.2},fR:[-0.22,0.07,-0.15],fL:[0.18,0.07,0.22],hR:[0.2,0.0,0.45],sd:[0.6,-0.5,0.6],sh:[1,0,0],sw:'hand',twoHand:true,lid:0.0,browA:0.45,mouth:'open'});
+PS.s2b=P_({pel:{y:0.8,p:0.1},tor:{tw:-0.5},fR:[-0.22,0.07,-0.15],fL:[0.18,0.07,0.22],hR:[-0.45,0.3,0.35],sd:[-0.9,0.1,0.4],sh:[0,1,0],sw:'hand',lid:0.0,browA:0.45,mouth:'open'});
+PS.s3b=P_({pel:{y:0.88},tor:{tw:0.2,b:-0.15},fR:[-0.22,0.07,-0.15],fL:[0.18,0.07,0.22],hR:[0.05,0.75,0.3],sd:[0.2,0.95,0.2],sh:[1,0,0],sw:'hand',twoHand:true,lid:0.0,browA:0.45,mouth:'open'});
+PS.slapUp=P_(Object.assign({},PS.stand,{hR:[-0.35,0.75,0.05],lid:0.0,browA:0.45,head:{p:-0.05}}));
+PS.slap=P_(Object.assign({},PS.stand,{hR:[-0.02,0.73,0.2],head:{p:-0.35},lid:1}));
+function kf(t,list){// list [[t,pose],...] eased
+  if(t<=list[0][0])return list[0][1];for(let i=0;i<list.length-1;i++){const[a,pa]=list[i],[b,pb]=list[i+1];if(t<b){return blendPose(pa,pb,ease((t-a)/(b-a)))}}return list[list.length-1][1]}
+const EASE_SW=(t,a,b)=>clamp((t-a)/(b-a),0,1);
+PS.umb=P_(Object.assign({},PS.stand,{hL:[0.1,0.36,0.22],head:{p:-0.12},lid:0.55,browA:0.2}));
+PS.squint=P_(Object.assign({},PS.stand,{head:{p:-0.35},lid:0.8,browA:0.45,hR:[-0.06,0.56,0.24]}));
+PS.nap=P_(Object.assign({},PS.seiza,{head:{p:0.35,r:0.15},lid:1}));
+PS.hold=P_(Object.assign({},PS.stand,{hL:[0.36,0.5,0.4],head:{p:-0.15,y:0.45},lid:0.35,browA:0.15,mouth:'flat'}));
+PS.peace=P_(Object.assign({},PS.stand,{lid:0.7,head:{p:0.1}}));
+PS.stepA=P_(Object.assign({},PS.stand,{fL:[0.13,0.18,0.3],lid:0.7}));
+PS.slip=P_({pel:{y:0.9,p:-0.5},tor:{b:-0.5},head:{p:-0.6},fR:[-0.14,0.55,0.7],fL:[0.14,0.75,0.55],hR:[-0.55,0.55,-0.1],hL:[0.55,0.6,-0.1],sw:'sheath',lid:0,browA:0.6,mouth:'open'});
+PS.down=P_({pel:{y:0.9,p:0},tor:{b:0},head:{p:0.2},fR:[-0.16,0.35,0.55],fL:[0.16,0.2,0.6],hR:[-0.5,0.1,0.0],hL:[0.5,0.15,0.0],sw:'sheath',lid:0,mouth:'open',xeyes:true});
+PS.gedan=P_({pel:{y:0.8,p:0.15},tor:{b:0.15},fR:[-0.22,0.07,-0.2],fL:[0.17,0.07,0.25],hR:[-0.04,0.0,0.36],sd:[0,-0.62,0.78],sh:[1,0,0],sw:'hand',twoHand:true,lid:0.1,head:{p:0.25},browA:0.4});
+PS.rest=P_(Object.assign({},PS.stand,{hR:[-0.27,0.0,0.15],sd:[0.05,-0.7,0.7],sh:[1,0,0],sw:'hand',lid:0.6}));
+PS.peer=P_(Object.assign({},PS.rest,{pel:{y:0.86,p:0.25},tor:{b:0.25},head:{p:0.35,y:0.0},hL:[0.25,0.25,0.5],lid:0.3,browA:0.2}));
+PS.holdLow=P_(Object.assign({},PS.stand,{hL:[0.3,0.22,0.42],head:{p:0.35,y:0.3},lid:0.4,browA:0.15}));
+PS.eat=P_(Object.assign({},PS.stand,{hL:[0.08,0.52,0.28],head:{p:0.05},lid:0.9,mouth:'open'}));
+PS.lookR=P_(Object.assign({},PS.stand,{head:{p:-0.15,y:-0.5},lid:0.15,browA:0.4}));
+PS.cross=P_(Object.assign({},PS.stand,{head:{p:-0.3},lid:0.85,browA:0.5,mouth:'flat'}));
