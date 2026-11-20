@@ -1,0 +1,1 @@
+cd /home/claude/work/parade; (echo "// PLANET PARADE – Puck VO"; cat partA0.js; echo; cat b0.js partA1.js; echo; cat cS.js cFX.js bM0.js; echo; cat sM.js pM.js vo.js qitems.js bD0.js fH.js pA.js bF.js) > pmain.js
