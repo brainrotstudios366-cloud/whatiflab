@@ -6,3 +6,4 @@ seg/
 frames/
 node_modules/
 *.part.mp4
+out/
