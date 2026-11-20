@@ -1,0 +1,105 @@
+x plus fünf gleich zwölf. Easy, oder? Die Fünf kommt rüber und wird zu minus fünf.
+
+Aber warum eigentlich? Wer das nicht versteht, rechnet bei drei x gleich zwölf plötzlich: zwölf minus drei. Und das ist falsch!
+
+In den nächsten Minuten verstehst du Gleichungen umstellen so, dass du es nie wieder vergisst. Mit einem einzigen Bild: einer Waage.
+
+Kapitel eins: Die Waage.
+
+Eine Gleichung ist wie eine Waage im Gleichgewicht. Links und rechts ist genau gleich viel.
+
+Hier links liegt eine Kiste. Darin steckt x, eine Zahl, die wir noch nicht kennen. Daneben liegen fünf Gewichte.
+
+Rechts liegen zwölf Gewichte. Die Waage ist im Gleichgewicht. Also: x plus fünf gleich zwölf.
+
+Wir wollen wissen, was in der Kiste ist. Dafür muss die Kiste ganz allein auf einer Seite stehen.
+
+Also nehmen wir links die fünf Gewichte weg. Oh! Die Waage kippt.
+
+Klar. Wenn ich nur auf einer Seite etwas wegnehme, ist das Gleichgewicht kaputt.
+
+Die Lösung: Wir nehmen auf beiden Seiten fünf weg. Links fünf, und rechts fünf.
+
+Und schon ist die Waage wieder im Gleichgewicht. Links nur noch die Kiste, rechts sieben Gewichte. x ist gleich sieben!
+
+Und genau das schreibt man so: Hinter die Gleichung kommt ein Strich, und dann minus fünf. Das heißt: auf beiden Seiten minus fünf.
+
+Das ist das ganze Geheimnis. Die Fünf springt nicht einfach rüber. Wir ziehen sie auf beiden Seiten ab, und links fällt sie weg.
+
+Kapitel zwei: Die Gegenoperation.
+
+Um eine Zahl loszuwerden, machst du immer das Gegenteil von dem, was mit dem x passiert.
+
+Steht da plus, rechnest du minus. Steht da minus, rechnest du plus.
+
+Steht da mal, teilst du. Und steht da geteilt, rechnest du mal.
+
+Jetzt der Klassiker: drei x gleich zwölf.
+
+Drei x heißt: drei mal x. Auf der Waage sind das drei gleiche Kisten. Und rechts zwölf Gewichte.
+
+Viele rechnen jetzt: zwölf minus drei gleich neun. Aber die Drei wird nicht addiert, sie wird multipliziert. Minus hilft hier also gar nicht.
+
+Das Gegenteil von mal drei ist geteilt durch drei. Wir teilen beide Seiten in drei gleiche Teile.
+
+Zu einer Kiste gehören genau vier Gewichte. Also ist x gleich vier.
+
+Probe: drei mal vier ist zwölf. Stimmt!
+
+Kapitel drei: Zwei Schritte.
+
+Zwei x plus drei gleich dreizehn. Jetzt passiert zweimal etwas mit dem x: mal zwei, und plus drei.
+
+Die Regel: Erst plus und minus wegschaffen. Dann mal und geteilt.
+
+Also zuerst: minus drei auf beiden Seiten. Zwei x gleich zehn.
+
+Dann: geteilt durch zwei. x gleich fünf.
+
+Warum diese Reihenfolge? Wenn du zuerst durch zwei teilst, musst du auch die Drei teilen. Dann hast du plötzlich Brüche. Und genau da passieren die Fehler.
+
+Kapitel vier: x auf beiden Seiten.
+
+Fünf x minus vier gleich zwei x plus acht. Sieht schlimm aus, oder?
+
+Auf der Waage ist das easy: Auf beiden Seiten liegen Kisten. Nimm einfach auf beiden Seiten zwei Kisten weg.
+
+Minus zwei x. Jetzt steht da: drei x minus vier gleich acht.
+
+Plus vier auf beiden Seiten: drei x gleich zwölf. Geteilt durch drei: x gleich vier.
+
+Tipp: Sammle die x immer auf der Seite, wo mehr x sind. Dann bleibt dein x positiv.
+
+Kapitel fünf: Gleichungen im echten Leben.
+
+Dein Handyvertrag kostet zehn Euro im Monat. Plus zwei Euro für jedes extra Gigabyte. Diesen Monat zahlst du vierundzwanzig Euro. Wie viele Gigabyte hast du extra verbraucht?
+
+Die unbekannte Zahl ist x. Zwei mal x plus zehn gleich vierundzwanzig.
+
+Minus zehn: zwei x gleich vierzehn. Geteilt durch zwei: x gleich sieben. Du hast sieben Gigabyte extra verbraucht.
+
+Kapitel sechs: Die drei häufigsten Fehler.
+
+Fehler Nummer eins: nur eine Seite verändern. Denk an die Waage! Was du links machst, machst du auch rechts.
+
+Fehler Nummer zwei: nur einen Teil teilen. Bei zwei x plus vier gleich zehn rechnen viele: x plus vier gleich fünf. Falsch! Wenn du teilst, musst du jeden Teil teilen. Richtig ist: x plus zwei gleich fünf. Oder du rechnest einfach zuerst minus vier.
+
+Fehler Nummer drei: das Minus vor dem x. Minus x gleich fünf heißt nicht x gleich fünf. Du teilst durch minus eins. Also: x gleich minus fünf.
+
+Und dein Sicherheitsnetz ist immer die Probe. Setz dein Ergebnis in die erste Gleichung ein. Sind beide Seiten gleich, ist es richtig. Das dauert zehn Sekunden und rettet dir Punkte in der Klassenarbeit.
+
+Jetzt bist du dran! Drei Aufgaben. Pausiere das Video und rechne mit.
+
+Aufgabe eins: x minus sieben gleich zwei. Aufgabe zwei: vier x gleich achtundzwanzig. Aufgabe drei: drei x plus fünf gleich zwanzig.
+
+Lösungen! Aufgabe eins: plus sieben. x gleich neun.
+
+Aufgabe zwei: geteilt durch vier. x gleich sieben.
+
+Aufgabe drei: minus fünf, dann geteilt durch drei. x gleich fünf.
+
+Alle drei richtig? Dann hast du Gleichungen umstellen verstanden! Schreib dein Ergebnis in die Kommentare.
+
+Kurz zusammengefasst: Eine Gleichung ist eine Waage. Was du auf einer Seite machst, machst du auch auf der anderen. Du rechnest immer die Gegenoperation. Und zuerst plus und minus, dann mal und geteilt.
+
+Im nächsten Video geht's um Brüche. Und um den Fehler, den fast alle dabei machen. Abonnier, damit du es nicht verpasst. Bis dann!
