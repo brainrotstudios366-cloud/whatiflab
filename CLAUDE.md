@@ -90,7 +90,12 @@ After render: contact sheet of 24 frames from the final mp4 + `volumedetect` (me
 Numpy SFX script pattern: `projects/neptune/audio_nep.py` (helpers whoosh, chime, boom, shing, risew, choir, beep, thud, tok, zap, jingle…; narration ducking; `alimiter` + `loudnorm I=-14`) → `sfx_norm.wav`, muxed by `runall.sh`.
 
 ## 7. Deliver
-- Final file name `<slug>_<seconds>s.mp4`. Send with **SendUserFile** (status `proactive`) + **SendUserMessage** in German containing, ready to copy:
+- Final file name `<slug>_<seconds>s.mp4`. Write the ready-to-copy texts (below) into `texts.txt`, then run
+  `tools/publish_video.sh <final.mp4> <morgens|mittags|abends> <slug> texts.txt` (timeout 600000). It pushes the video + texts to the **`videos` branch**
+  (= the owner's download place: https://github.com/brainrotstudios366-cloud/whatiflab/tree/videos, keeps the last 7 days, never grows) and creates `<name>_chat.mp4` (< 10 MB).
+  The full 30+ MB file does NOT show up in the chat (owner complaint 20.11.2026) → always send the `_chat.mp4` copy, and copy it into the working directory first (`/home/claude/whatiflab/out/`, gitignored) so SendUserFile can deliver it.
+  Google Drive upload does NOT work for videos (connector limit ~3 MB).
+- Send with **SendUserFile** (status `proactive`, the `_chat.mp4`) + **SendUserMessage** in German containing the download link to the videos branch and, ready to copy:
   English **Description**, **Hashtags** (5–8; include the rising trend hashtag you used), **Pin comment**, **Poll** (question + 2 answers), German music tip, best posting time, and the trend you used + sources.
   Remind: tick "AI-generated content" label in TikTok.
 - (Auto-posting via Metricool needs a paid plan – NOT active. When the owner upgrades: push the mp4 to `media/` in this repo (repo must be public), use the raw URL in Metricool `createScheduledPost` with `tiktokData.isAigc=true`, then delete old media.)
