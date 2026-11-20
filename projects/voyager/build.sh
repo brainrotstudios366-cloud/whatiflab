@@ -1,0 +1,1 @@
+cd /home/claude/work/voyager; (echo "// DEEP SPACE vs SAMURAI (Voyager 1)"; cat partA0.js; echo; cat vM.js partA1.js; echo; echo "const smst=(a,b,x)=>{const k=clamp((x-a)/(b-a),0,1);return k*k*(3-2*k)};"; cat sS.js sOp.js vO.js sR.js sC.js vP.js vC.js vE.js vF.js vD.js) > smain.js
