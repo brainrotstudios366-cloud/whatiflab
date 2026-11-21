@@ -1,0 +1,1 @@
+cd /home/claude/work/germs; (echo "// ALL BACTERIA DISAPPEAR 5s – what-if sim"; cat partA0.js; echo; cat b0.js partA1.js; echo; cat cS.js cFX.js bM0.js; echo; cat sM.js v0.js qitems.js bD0.js aM.js aH.js gT.js gD.js bF.js) > smain.js
