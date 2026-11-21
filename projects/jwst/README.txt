@@ -1,0 +1,7 @@
+"The James Webb telescope's universe vs ONE samurai" (66 s, vs-samurai format, 2026-11-21 evening). Trend: #jameswebb (NEW, x4.04 rising, TikTok Science 7d US).
+Built from projects/voyager (same timeline/EV/poses). Sources needed besides this folder: engine.js, assets.js, scenes.js, tracks.js from projects/samurai; sS.js from projects/planets; sOp.js = projects/planets/sO.js; sR.js + sC.js from projects/starship.
+Build: cat vD_head.js vD_mid.js vD_tail.js > vD.js; ./build.sh -> smain.js (jO.js after vO.js, jF.js replaces vF.js). SUB=2.
+NEW reusable parts (jO.js): JWS = JWST sunshield (5 violet kite-hexagon membranes, spreader booms, bus + solar panel), JWM = 18-segment gold primary mirror (flat-top hexes, concave, backplane, tower, secondary-mirror struts) placed with MIR_M; HEXS hex centres, MIRZ sag; JNOZ thruster nozzles;
+W107 (puffy tan exoplanet), W17 (blue-white exoplanet w/ sparkles), CRYS/CRYH quartz crystal + cut half (emissive), GAL (red distant galaxy smudge), CLIFF (Carina 'Cosmic Cliffs' emissive disc: orange dusty cliffs + blue gas + stars).
+Camera SHOTS now accept tracked-string eyes too (TRK.HITE). Rounds: sand rain (umbrella), quartz crystals (slice), Cosmic Cliffs flythrough, text the most distant galaxy (counter -> NEVER), final: ONE micrometeoroid dents mirror -> thrusters -> spin -> yeet.
+Audio: audio_vg.py edited; normalize: acompressor(thr -20dB, 3.5)+alimiter 0.89+loudnorm I=-11 -> mean -16.9 dB, max -0.6.
