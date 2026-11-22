@@ -572,5 +572,20 @@
    "#lernen"
   ],
   "duration": 382
+ },
+ {
+  "date": "2026-11-22",
+  "slug": "brueche",
+  "title": "Brüche addieren – der Fehler, den fast alle machen (YouTube, DE)",
+  "format": "YouTube long explainer 16:9 (Karoheft design) + 3 Shorts",
+  "trend": "school pain point: fractions (common error: adding numerators and denominators)",
+  "hashtags": [
+   "#mathe",
+   "#brüche",
+   "#bruchrechnung",
+   "#schule",
+   "#nachhilfe"
+  ],
+  "duration": 482
  }
 ]
