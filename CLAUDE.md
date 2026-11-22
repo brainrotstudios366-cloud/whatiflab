@@ -40,7 +40,7 @@ Viewers watch only ~10–20 s on average → **the first 1–2 s must hook hard*
 ### Pick the idea
 Combine a **rising trend / meme / rising hashtag** with a **format that works here**, always with real science behind it.
 Examples: `#asteroidimpact` rising → "Asteroid impact vs ONE dying ant"; `#sagittariusa` → "What if you fell into Sagittarius A*?"; solar storm news → "What if a solar storm hit Earth for 5 seconds?".
-Mix per day: ~2× "vs ONE ant/samurai" or "What if…disappeared" style, ~1× space/physics "What if…?" with Puck narration.
+Since 22.11.2026 only ONE video per day (owner request): alternate – last video a "vs ONE" battle → now "What if…disappeared" sim or space "What if…?"; otherwise a "vs ONE dying ant/samurai" battle.
 No copyrighted characters, no real people, no politics, nothing blackpill/violent-gore. Ant/samurai/Q are our own characters.
 
 ## 2. Facts
@@ -95,7 +95,7 @@ Numpy SFX script pattern: `projects/neptune/audio_nep.py` (helpers whoosh, chime
   (= the owner's download place: https://github.com/brainrotstudios366-cloud/whatiflab/tree/videos, keeps the last 7 days, never grows) and creates `<name>_chat.mp4` (< 10 MB).
   The full 30+ MB file does NOT show up in the chat (owner complaint 20.11.2026) → always send the `_chat.mp4` copy, and copy it into the working directory first (`/home/claude/whatiflab/out/`, gitignored) so SendUserFile can deliver it.
   Google Drive upload does NOT work for videos (connector limit ~3 MB).
-- Send with **SendUserFile** (status `proactive`, the `_chat.mp4`) + **SendUserMessage** in German containing the download link to the videos branch and, ready to copy:
+- Send with **SendUserFile** (status `proactive`, the `_chat.mp4` = the file he posts) + ONE **SendUserMessage** in German, everything ready to copy, WITHOUT the GitHub link (owner wants everything simply in the chat, 22.11.2026):
   English **Description**, **Hashtags** (5–8; include the rising trend hashtag you used), **Pin comment**, **Poll** (question + 2 answers), German music tip, best posting time, and the trend you used + sources.
   Remind: tick "AI-generated content" label in TikTok.
 - (Auto-posting via Metricool needs a paid plan – NOT active. When the owner upgrades: push the mp4 to `media/` in this repo (repo must be public), use the raw URL in Metricool `createScheduledPost` with `tiktokData.isAigc=true`, then delete old media.)
