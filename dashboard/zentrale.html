@@ -1,0 +1,180 @@
+<title>Studio-Zentrale</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&family=Space+Grotesk:wght@500;700&display=swap">
+<style>
+/* Layout: one narrow phone column – project status first, then idea inbox, run log, channel profile */
+:root{
+  --bg:#05061A; --panel:#0D1030; --line:#1E2350; --fg:#ECEEFF; --muted:#8C92C4;
+  --cyan:#5AF0FF; --yellow:#FFD84A; --pink:#FF5A8A; --green:#7DFF9A;
+  --display:"Space Grotesk",Inter,system-ui,sans-serif; --body:Inter,system-ui,sans-serif;
+  color-scheme:dark;
+}
+@media (prefers-color-scheme: light){ :root:not([data-theme="dark"]){
+  --bg:#F3F4FC; --panel:#FFFFFF; --line:#D9DCF2; --fg:#10132E; --muted:#5A5F86;
+  --cyan:#0A8FA3; --yellow:#9A7400; --pink:#C42457; --green:#18853B; color-scheme:light } }
+:root[data-theme="light"]{
+  --bg:#F3F4FC; --panel:#FFFFFF; --line:#D9DCF2; --fg:#10132E; --muted:#5A5F86;
+  --cyan:#0A8FA3; --yellow:#9A7400; --pink:#C42457; --green:#18853B; color-scheme:light }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45}
+.wrap{max-width:720px;margin:0 auto;padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:28px}
+h1{font-family:var(--display);font-size:28px;margin:0;letter-spacing:-.01em}
+h2{font-family:var(--display);font-size:18px;margin:0 0 12px}
+.sub{color:var(--muted);margin:4px 0 0}
+.note{font-size:13px;color:var(--muted)}
+.projects{display:grid;gap:12px}
+.proj{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px;display:grid;gap:6px;border-left:4px solid var(--c,var(--cyan))}
+.proj .top{display:flex;justify-content:space-between;align-items:baseline;gap:8px;flex-wrap:wrap}
+.proj .name{font-family:var(--display);font-weight:700;font-size:17px}
+.proj .plat{color:var(--muted);font-size:13px}
+.proj .last{min-width:0;overflow-wrap:anywhere}
+.pill{display:inline-block;font-size:12px;font-weight:700;padding:2px 9px;border-radius:99px;border:1px solid currentColor;white-space:nowrap}
+.ok{color:var(--green)} .err{color:var(--pink)} .skip{color:var(--yellow)} .wait{color:var(--muted)}
+form.idea{display:grid;gap:8px}
+.row{display:flex;gap:8px;flex-wrap:wrap}
+textarea,input,select{font:inherit;color:var(--fg);background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px;width:100%}
+textarea{min-height:70px;resize:vertical}
+select{width:auto;flex:1 1 140px}
+button{font:inherit;font-weight:700;border:0;border-radius:10px;padding:10px 16px;background:var(--cyan);color:#05061A;cursor:pointer}
+button.ghost{background:transparent;color:var(--muted);border:1px solid var(--line);padding:4px 10px;font-weight:500;font-size:13px}
+button:focus-visible,textarea:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--yellow);outline-offset:2px}
+ul.list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+ul.list li{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px;display:grid;gap:4px;min-width:0}
+ul.list .meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+ul.list .txt{overflow-wrap:anywhere}
+.tag{font-size:12px;font-weight:700;color:var(--c,var(--cyan))}
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.filters button{background:transparent;color:var(--muted);border:1px solid var(--line);padding:5px 12px;font-size:13px}
+.filters button[aria-pressed="true"]{color:var(--fg);border-color:var(--cyan)}
+.empty{color:var(--muted);font-size:14px;border:1px dashed var(--line);border-radius:10px;padding:14px}
+.prof{display:grid;gap:8px}
+.prof label{font-size:13px;color:var(--muted);display:grid;gap:4px}
+#status{font-size:13px;color:var(--yellow);min-height:1em}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Studio-Zentrale</h1>
+    <p class="sub" id="today">TikTok · YouTube-Lernkanal · Pinterest</p>
+    <p id="status"></p>
+  </header>
+
+  <section aria-labelledby="h-proj">
+    <h2 id="h-proj">Projekte</h2>
+    <div class="projects" id="projects">
+      <div class="empty">Projekte werden geladen. Jeder automatische Lauf trägt hier seinen Status ein.</div>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-ideas">
+    <h2 id="h-ideas">Ideen-Postfach</h2>
+    <form class="idea" id="ideaForm">
+      <textarea id="ideaText" placeholder="z. B. „Was wäre, wenn der Mond verschwindet?“ oder „Pin über Adventskalender für Männer“" required></textarea>
+      <div class="row">
+        <select id="ideaProj" aria-label="Projekt">
+          <option value="tiktok">TikTok – What If Lab</option>
+          <option value="youtube">YouTube – Lernkanal</option>
+          <option value="pinterest">Pinterest – corestate</option>
+        </select>
+        <button type="submit">Idee speichern</button>
+      </div>
+      <p class="note">Der nächste Lauf des Projekts nimmt die älteste neue Idee, sofern sie zu den Trends passt, und markiert sie als genutzt.</p>
+    </form>
+    <ul class="list" id="ideas" style="margin-top:12px"></ul>
+  </section>
+
+  <section aria-labelledby="h-runs">
+    <h2 id="h-runs">Verlauf</h2>
+    <div class="filters" id="filters">
+      <button type="button" data-f="all" aria-pressed="true">Alle</button>
+      <button type="button" data-f="tiktok" aria-pressed="false">TikTok</button>
+      <button type="button" data-f="youtube" aria-pressed="false">YouTube</button>
+      <button type="button" data-f="pinterest" aria-pressed="false">Pinterest</button>
+    </div>
+    <ul class="list" id="runs"><li class="empty">Noch keine Läufe eingetragen.</li></ul>
+  </section>
+
+  <section aria-labelledby="h-prof">
+    <h2 id="h-prof">Profil Lernkanal (YouTube)</h2>
+    <form class="prof" id="profForm">
+      <label>Kanalname<input id="pName" placeholder="z. B. Lernlabor"></label>
+      <label>Thema / Fach<input id="pTopic" placeholder="z. B. Mathe Klasse 8–10, Geschichte, Englisch"></label>
+      <label>Sprache der Videos<input id="pLang" placeholder="Deutsch oder Englisch"></label>
+      <label>Zielgruppe<input id="pAud" placeholder="z. B. Schüler 13–16"></label>
+      <label>Wünsche (Stil, Länge, Häufigkeit)<textarea id="pWish" placeholder="z. B. 1 Short täglich, 1 langes Video pro Woche (8–10 min)"></textarea></label>
+      <div class="row"><button type="submit">Profil speichern</button></div>
+    </form>
+  </section>
+</div>
+
+<script>
+const PROJ = {
+  tiktok:{name:"What If Lab",plat:"TikTok",c:"var(--cyan)"},
+  youtube:{name:"Lernkanal",plat:"YouTube Shorts + lange Videos",c:"var(--pink)"},
+  pinterest:{name:"corestate",plat:"Pinterest (Amazon-Affiliate)",c:"var(--yellow)"}
+};
+const ORDER=["tiktok","youtube","pinterest"];
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt=ts=>{ if(!ts) return ""; const d=new Date(ts); if(isNaN(d)) return esc(ts);
+  return d.toLocaleString("de-AT",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit",timeZone:"Europe/Vienna"}); };
+const pillCls=s=>({ok:"ok",fertig:"ok",fehler:"err",übersprungen:"skip",geplant:"wait"}[s]||"wait");
+$("today").textContent="TikTok · YouTube-Lernkanal · Pinterest — "+new Date().toLocaleDateString("de-AT",{weekday:"long",day:"numeric",month:"long"});
+
+let runs=[], projects={}, filter="all", db=null;
+
+function renderProjects(){
+  $("projects").innerHTML=ORDER.map(id=>{
+    const p=PROJ[id], d=projects[id]||{}, l=d.lastRun;
+    return `<article class="proj" style="--c:${p.c}">
+      <div class="top"><span class="name">${esc(p.name)}</span><span class="plat">${esc(p.plat)}</span></div>
+      <div class="note">${esc(d.schedule||"noch kein Zeitplan")}</div>
+      ${l?`<div class="last"><span class="pill ${pillCls(l.status)}">${esc(l.status)}</span> ${esc(l.title||"")} <span class="note">· ${fmt(l.ts)}</span></div>`
+         :`<div class="note">${esc(d.hint||"Noch kein Lauf eingetragen.")}</div>`}
+    </article>`;}).join("");
+}
+function renderRuns(){
+  const list=runs.filter(r=>filter==="all"||r.project===filter);
+  $("runs").innerHTML=list.length?list.map(r=>{const p=PROJ[r.project]||{name:r.project,c:"var(--muted)"};
+    return `<li><div class="meta"><span class="tag" style="--c:${p.c}">${esc(p.name)}</span><span class="pill ${pillCls(r.status)}">${esc(r.status)}</span><span>${fmt(r.ts)}</span></div>
+    <div class="txt"><strong>${esc(r.title||"")}</strong></div>${r.summary?`<div class="txt note">${esc(r.summary)}</div>`:""}</li>`}).join("")
+    :`<li class="empty">Noch keine Läufe${filter==="all"?"":" für dieses Projekt"}. Jeder automatische Lauf trägt sich hier ein.</li>`;
+}
+function renderIdeas(ideas){
+  $("ideas").innerHTML=ideas.length?ideas.map(i=>{const p=PROJ[i.d.project]||{name:i.d.project,c:"var(--muted)"};
+    return `<li><div class="meta"><span class="tag" style="--c:${p.c}">${esc(p.name)}</span><span class="pill ${i.d.status==="genutzt"?"ok":"skip"}">${esc(i.d.status||"neu")}</span><span>${fmt(i.d.ts)}</span>
+    <button class="ghost" type="button" data-del="${esc(i.id)}" style="margin-left:auto">Löschen</button></div>
+    <div class="txt">${esc(i.d.text)}</div>${i.d.usedIn?`<div class="note">→ ${esc(i.d.usedIn)}</div>`:""}</li>`}).join("")
+    :`<li class="empty">Noch keine Ideen. Tipp oben eine ein, der nächste Lauf greift sie auf.</li>`;
+}
+$("filters").addEventListener("click",e=>{const b=e.target.closest("button[data-f]"); if(!b) return;
+  filter=b.dataset.f; for(const x of $("filters").children) x.setAttribute("aria-pressed",x===b?"true":"false"); renderRuns();});
+renderProjects(); renderIdeas([]);
+
+(async()=>{
+  db=await claude.use("db");
+  if(!db){ $("status").textContent="Daten nicht erreichbar. Bitte in der Claude-App angemeldet öffnen."; return; }
+  const timer=setTimeout(()=>{$("status").textContent="Daten laden dauert länger als üblich …";},10000);
+  const done=s=>{ if(!s.metadata.fromCache){clearTimeout(timer); $("status").textContent="";} };
+  const fail=e=>{clearTimeout(timer); $("status").textContent="Fehler beim Laden: "+(e.message||e.code);};
+  db.collection("projects").onSnapshot(s=>{done(s); projects={}; s.docs.forEach(d=>projects[d.id]=d.data()); renderProjects();},fail);
+  db.collection("runs").orderBy("ts","desc").limit(60).onSnapshot(s=>{done(s); runs=s.docs.map(d=>d.data()); renderRuns();},fail);
+  db.collection("ideas").orderBy("ts","desc").limit(100).onSnapshot(s=>{done(s); renderIdeas(s.docs.map(d=>({id:d.id,d:d.data()})));},fail);
+  const prof=await db.doc("config/youtube").get().catch(()=>null);
+  if(prof&&prof.exists){const p=prof.data(); $("pName").value=p.name||""; $("pTopic").value=p.topic||""; $("pLang").value=p.language||""; $("pAud").value=p.audience||""; $("pWish").value=p.wishes||"";}
+})();
+
+$("ideaForm").addEventListener("submit",async e=>{e.preventDefault(); if(!db) return;
+  const text=$("ideaText").value.trim(); if(!text) return;
+  try{ await db.collection("ideas").add({text,project:$("ideaProj").value,status:"neu",ts:new Date().toISOString()});
+    $("ideaText").value=""; $("status").textContent="Idee gespeichert."; }
+  catch(err){ $("status").textContent="Speichern fehlgeschlagen: "+(err.message||err.code); }});
+$("ideas").addEventListener("click",async e=>{const b=e.target.closest("button[data-del]"); if(!b||!db) return;
+  try{ await db.collection("ideas").doc(b.dataset.del).delete(); }catch(err){ $("status").textContent="Löschen fehlgeschlagen."; }});
+$("profForm").addEventListener("submit",async e=>{e.preventDefault(); if(!db) return;
+  try{ await db.doc("config/youtube").set({name:$("pName").value.trim(),topic:$("pTopic").value.trim(),language:$("pLang").value.trim(),
+      audience:$("pAud").value.trim(),wishes:$("pWish").value.trim(),ts:new Date().toISOString()});
+    $("status").textContent="Profil gespeichert. Der Lernkanal-Autopilot nutzt es ab dem nächsten Lauf."; }
+  catch(err){ $("status").textContent="Speichern fehlgeschlagen: "+(err.message||err.code); }});
+</script>
