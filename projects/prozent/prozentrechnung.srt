@@ -1,0 +1,547 @@
+1
+00:00:00,600 --> 00:00:04,778
+Dreißig Prozent Rabatt auf eine Jacke für
+achtzig Euro.
+
+2
+00:00:04,778 --> 00:00:06,221
+Wie viel zahlst du?
+
+3
+00:00:06,571 --> 00:00:07,765
+Die meisten raten.
+
+4
+00:00:07,765 --> 00:00:12,012
+Aber mit einer einzigen Formel rechnest du
+das in zehn Sekunden.
+
+5
+00:00:12,012 --> 00:00:16,657
+Und am Ende zeige ich dir einen
+Prozent-Trick, der fast alle reinlegt.
+
+6
+00:00:17,657 --> 00:00:21,024
+Kapitel eins: Was heißt Prozent?
+
+7
+00:00:21,824 --> 00:00:24,108
+Prozent heißt: von hundert.
+
+8
+00:00:24,108 --> 00:00:26,731
+Stell dir hundert Kästchen vor.
+
+9
+00:00:27,351 --> 00:00:30,778
+Ein Prozent ist ein Kästchen von hundert.
+
+10
+00:00:30,778 --> 00:00:32,533
+Also ein Hundertstel.
+
+11
+00:00:33,153 --> 00:00:38,577
+Fünfundzwanzig Prozent sind fünfundzwanzig
+von hundert Kästchen.
+
+12
+00:00:38,577 --> 00:00:40,780
+Das ist genau ein Viertel.
+
+13
+00:00:41,400 --> 00:00:43,183
+Und hundert Prozent?
+
+14
+00:00:43,183 --> 00:00:45,234
+Das sind alle Kästchen.
+
+15
+00:00:45,234 --> 00:00:46,572
+Also das Ganze.
+
+16
+00:00:47,192 --> 00:00:53,185
+Deshalb kannst du jeden Prozentsatz auch
+als Bruch oder Kommazahl schreiben.
+
+17
+00:00:53,185 --> 00:00:57,286
+Fünfzig Prozent sind ein Halb, also null
+Komma fünf.
+
+18
+00:00:57,286 --> 00:01:01,387
+Zehn Prozent sind ein Zehntel, also null
+Komma eins.
+
+19
+00:01:02,387 --> 00:01:05,060
+Kapitel zwei: Die drei Begriffe.
+
+20
+00:01:05,860 --> 00:01:09,288
+Bei jeder Prozentaufgabe gibt es drei
+Werte.
+
+21
+00:01:09,288 --> 00:01:11,469
+Der Grundwert ist das Ganze.
+
+22
+00:01:11,469 --> 00:01:13,884
+Das sind immer hundert Prozent.
+
+23
+00:01:14,504 --> 00:01:18,495
+Der Prozentsatz sagt, wie viel Prozent du
+davon nimmst.
+
+24
+00:01:19,115 --> 00:01:23,173
+Und der Prozentwert ist das Stück, das
+dabei herauskommt.
+
+25
+00:01:23,793 --> 00:01:28,302
+Beispiel: Zwanzig Prozent von fünfzig Euro.
+
+26
+00:01:28,302 --> 00:01:31,553
+Der Grundwert ist fünfzig Euro.
+
+27
+00:01:31,553 --> 00:01:35,328
+Der Prozentsatz ist zwanzig Prozent.
+
+28
+00:01:35,328 --> 00:01:38,893
+Und der Prozentwert ist zehn Euro.
+
+29
+00:01:39,513 --> 00:01:46,067
+Ein Trick zum Erkennen: Der Grundwert steht
+meistens hinter dem Wort von.
+
+30
+00:01:46,067 --> 00:01:48,581
+Zwanzig Prozent von fünfzig.
+
+31
+00:01:48,581 --> 00:01:50,915
+Fünfzig ist der Grundwert.
+
+32
+00:01:51,915 --> 00:01:54,040
+Kapitel drei: Die Formel.
+
+33
+00:01:54,840 --> 00:02:01,690
+Hier ist die eine Formel: Prozentwert
+gleich Grundwert mal Prozentsatz.
+
+34
+00:02:02,310 --> 00:02:06,163
+Den Prozentsatz schreibst du dabei als
+Kommazahl.
+
+35
+00:02:06,163 --> 00:02:11,118
+Dreißig Prozent sind dreißig Hundertstel,
+also null Komma drei.
+
+36
+00:02:11,738 --> 00:02:19,019
+Jetzt die Jacke: achtzig Euro mal null
+Komma drei gleich vierundzwanzig Euro.
+
+37
+00:02:19,019 --> 00:02:20,815
+Das ist der Rabatt.
+
+38
+00:02:21,435 --> 00:02:25,954
+Du zahlst also achtzig minus
+vierundzwanzig.
+
+39
+00:02:25,954 --> 00:02:28,111
+Sechsundfünfzig Euro.
+
+40
+00:02:28,731 --> 00:02:34,606
+Noch schneller: Wenn du dreißig Prozent
+sparst, zahlst du siebzig Prozent.
+
+41
+00:02:34,606 --> 00:02:38,813
+Achtzig mal null Komma sieben gleich
+sechsundfünfzig.
+
+42
+00:02:38,813 --> 00:02:39,766
+Ein Schritt!
+
+43
+00:02:40,386 --> 00:02:48,433
+Und bei einem Aufschlag, zum Beispiel
+neunzehn Prozent Mehrwertsteuer, rechnest
+du mal eins Komma eins neun.
+
+44
+00:02:48,433 --> 00:02:52,159
+Aus hundert Euro werden dann
+hundertneunzehn Euro.
+
+45
+00:02:53,159 --> 00:02:56,275
+Kapitel vier: Die Formel umstellen.
+
+46
+00:02:57,075 --> 00:03:01,389
+Das Beste: Mit derselben Formel findest du
+auch die anderen Werte.
+
+47
+00:03:01,389 --> 00:03:04,788
+Du musst sie nur umstellen, wie bei einer
+Gleichung.
+
+48
+00:03:05,408 --> 00:03:09,775
+Erstes Beispiel: In einer Klasse sind
+achtundvierzig Schüler.
+
+49
+00:03:09,775 --> 00:03:11,994
+Zwölf davon fahren mit dem Rad.
+
+50
+00:03:11,994 --> 00:03:13,855
+Wie viel Prozent sind das?
+
+51
+00:03:14,475 --> 00:03:16,985
+Gesucht ist der Prozentsatz.
+
+52
+00:03:16,985 --> 00:03:20,929
+Also teilst du: Prozentwert durch
+Grundwert.
+
+53
+00:03:20,929 --> 00:03:25,860
+Zwölf durch achtundvierzig gleich null
+Komma zwei fünf.
+
+54
+00:03:25,860 --> 00:03:28,370
+Also fünfundzwanzig Prozent.
+
+55
+00:03:28,990 --> 00:03:35,491
+Zweites Beispiel: Du sparst fünfzehn Euro,
+und das sind zwanzig Prozent.
+
+56
+00:03:35,491 --> 00:03:37,838
+Wie viel kostet das Ganze?
+
+57
+00:03:38,458 --> 00:03:41,125
+Gesucht ist der Grundwert.
+
+58
+00:03:41,125 --> 00:03:44,817
+Also: Prozentwert durch Prozentsatz.
+
+59
+00:03:44,817 --> 00:03:50,766
+Fünfzehn durch null Komma zwei gleich
+fünfundsiebzig Euro.
+
+60
+00:03:51,386 --> 00:03:56,908
+Probe: Zwanzig Prozent von fünfundsiebzig
+sind fünfzehn.
+
+61
+00:03:56,908 --> 00:03:57,598
+Stimmt!
+
+62
+00:03:58,218 --> 00:04:05,231
+Merk dir einfach das Dreieck: Oben steht
+der Prozentwert, unten Grundwert und
+Prozentsatz.
+
+63
+00:04:05,231 --> 00:04:07,413
+Was du suchst, hältst du zu.
+
+64
+00:04:07,413 --> 00:04:09,906
+Der Rest zeigt dir die Rechnung.
+
+65
+00:04:10,906 --> 00:04:13,756
+Kapitel fünf: Kopfrechen-Tricks.
+
+66
+00:04:14,556 --> 00:04:18,862
+Zehn Prozent sind ganz einfach: durch zehn
+teilen.
+
+67
+00:04:18,862 --> 00:04:21,876
+Zehn Prozent von achtzig sind acht.
+
+68
+00:04:22,496 --> 00:04:25,153
+Fünfzig Prozent ist die Hälfte.
+
+69
+00:04:25,153 --> 00:04:28,495
+Fünfundzwanzig Prozent ist ein Viertel.
+
+70
+00:04:29,115 --> 00:04:32,272
+Und schwierige Zahlen baust du zusammen.
+
+71
+00:04:32,272 --> 00:04:36,455
+Fünfzehn Prozent sind zehn Prozent plus
+fünf Prozent.
+
+72
+00:04:36,455 --> 00:04:40,007
+Bei achtzig also acht plus vier gleich
+zwölf.
+
+73
+00:04:40,627 --> 00:04:41,977
+Und ein Prozent?
+
+74
+00:04:41,977 --> 00:04:44,424
+Einfach durch hundert teilen.
+
+75
+00:04:44,424 --> 00:04:48,137
+Ein Prozent von achtzig ist null Komma
+acht.
+
+76
+00:04:48,137 --> 00:04:52,188
+Damit kannst du jeden Prozentsatz
+zusammenbauen.
+
+77
+00:04:53,188 --> 00:04:57,152
+Kapitel sechs: Der Trick, der fast alle
+reinlegt.
+
+78
+00:04:57,952 --> 00:05:00,490
+Ein Preis steigt um zehn Prozent.
+
+79
+00:05:00,490 --> 00:05:03,336
+Dann sinkt er wieder um zehn Prozent.
+
+80
+00:05:03,336 --> 00:05:05,413
+Ist er jetzt wieder gleich?
+
+81
+00:05:06,033 --> 00:05:09,122
+Probieren wir es mit hundert Euro.
+
+82
+00:05:09,122 --> 00:05:12,392
+Plus zehn Prozent: hundertzehn Euro.
+
+83
+00:05:13,012 --> 00:05:17,518
+Jetzt minus zehn Prozent, aber von
+hundertzehn!
+
+84
+00:05:17,518 --> 00:05:21,162
+Zehn Prozent von hundertzehn sind elf.
+
+85
+00:05:21,162 --> 00:05:23,559
+Also neunundneunzig Euro.
+
+86
+00:05:24,179 --> 00:05:26,242
+Der Preis ist gesunken!
+
+87
+00:05:26,242 --> 00:05:29,560
+Weil sich der Grundwert geändert hat.
+
+88
+00:05:29,560 --> 00:05:32,789
+Frag dich also immer: Prozent wovon?
+
+89
+00:05:33,409 --> 00:05:39,133
+Das gilt übrigens auch umgekehrt: Erst
+minus zehn Prozent, dann plus zehn Prozent.
+
+90
+00:05:39,133 --> 00:05:42,134
+Auch da landest du bei neunundneunzig Euro.
+
+91
+00:05:43,134 --> 00:05:46,883
+Kapitel sieben: Die drei häufigsten Fehler.
+
+92
+00:05:47,683 --> 00:05:51,190
+Fehler Nummer eins: Prozent nicht
+umrechnen.
+
+93
+00:05:51,190 --> 00:05:54,459
+Achtzig mal dreißig ist nicht der Rabatt.
+
+94
+00:05:54,459 --> 00:05:57,408
+Dreißig Prozent sind null Komma drei.
+
+95
+00:05:58,028 --> 00:06:01,652
+Fehler Nummer zwei: Rabatt und Preis
+verwechseln.
+
+96
+00:06:01,652 --> 00:06:04,240
+Vierundzwanzig Euro ist der Rabatt.
+
+97
+00:06:04,240 --> 00:06:06,607
+Zahlen musst du sechsundfünfzig.
+
+98
+00:06:07,227 --> 00:06:12,247
+Fehler Nummer drei: Beim Grundwert
+malnehmen statt teilen.
+
+99
+00:06:12,247 --> 00:06:16,056
+Fünfzehn mal null Komma zwei wäre drei
+Euro.
+
+100
+00:06:16,056 --> 00:06:18,653
+Das kann nicht das Ganze sein.
+
+101
+00:06:18,653 --> 00:06:22,375
+Richtig ist fünfzehn durch null Komma zwei.
+
+102
+00:06:22,995 --> 00:06:24,560
+Jetzt bist du dran!
+
+103
+00:06:24,560 --> 00:06:25,712
+Drei Aufgaben.
+
+104
+00:06:25,712 --> 00:06:28,512
+Pausiere das Video und rechne mit.
+
+105
+00:06:29,132 --> 00:06:33,082
+Aufgabe eins: fünfzehn Prozent von sechzig.
+
+106
+00:06:33,082 --> 00:06:38,594
+Aufgabe zwei: achtzehn von zweiundsiebzig,
+wie viel Prozent?
+
+107
+00:06:38,594 --> 00:06:43,647
+Aufgabe drei: dreißig Prozent sind
+fünfundvierzig Euro.
+
+108
+00:06:43,647 --> 00:06:46,127
+Wie groß ist der Grundwert?
+
+109
+00:06:57,627 --> 00:06:58,386
+Lösungen!
+
+110
+00:06:58,386 --> 00:07:03,619
+Aufgabe eins: zehn Prozent sind sechs, fünf
+Prozent sind drei.
+
+111
+00:07:03,619 --> 00:07:04,800
+Zusammen neun.
+
+112
+00:07:05,420 --> 00:07:12,987
+Aufgabe zwei: achtzehn durch zweiundsiebzig
+gleich null Komma zwei fünf.
+
+113
+00:07:12,987 --> 00:07:15,930
+Also fünfundzwanzig Prozent.
+
+114
+00:07:16,550 --> 00:07:24,088
+Aufgabe drei: fünfundvierzig durch null
+Komma drei gleich hundertfünfzig Euro.
+
+115
+00:07:24,708 --> 00:07:25,540
+Alles richtig?
+
+116
+00:07:25,540 --> 00:07:27,561
+Dann schreib es in die Kommentare!
+
+117
+00:07:28,181 --> 00:07:32,425
+Kurz zusammengefasst: Prozent heißt von
+hundert.
+
+118
+00:07:32,425 --> 00:07:36,403
+Prozentwert gleich Grundwert mal
+Prozentsatz.
+
+119
+00:07:36,403 --> 00:07:40,205
+Den Prozentsatz schreibst du als Kommazahl.
+
+120
+00:07:40,205 --> 00:07:46,128
+Und wenn du etwas anderes suchst, stellst
+du die Formel einfach um.
+
+121
+00:07:46,748 --> 00:07:50,095
+Im nächsten Video geht es um negative
+Zahlen.
+
+122
+00:07:50,095 --> 00:07:52,922
+Und warum minus mal minus plus ergibt.
+
+123
+00:07:52,922 --> 00:07:55,674
+Abonnier, damit du es nicht verpasst.
+
+124
+00:07:55,674 --> 00:07:56,343
+Bis dann!
