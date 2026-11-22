@@ -1,0 +1,534 @@
+1
+00:00:00,600 --> 00:00:04,331
+Ein Halb plus ein Drittel war gar nicht so
+leicht.
+
+2
+00:00:04,331 --> 00:00:06,569
+Aber ein Halb MAL ein Drittel?
+
+3
+00:00:06,569 --> 00:00:08,509
+Das geht in fünf Sekunden.
+
+4
+00:00:08,859 --> 00:00:13,806
+Denn beim Malnehmen musst du keinen
+gemeinsamen Nenner suchen.
+
+5
+00:00:13,806 --> 00:00:16,279
+Kein Erweitern, kein Umrechnen.
+
+6
+00:00:16,279 --> 00:00:20,188
+Heute lernst du malnehmen und teilen mit
+Brüchen.
+
+7
+00:00:20,188 --> 00:00:24,257
+Und du verstehst endlich, warum es so
+funktioniert.
+
+8
+00:00:25,257 --> 00:00:27,677
+Kapitel eins: Die Regel.
+
+9
+00:00:28,477 --> 00:00:34,568
+Die Regel ist super einfach: Zähler mal
+Zähler, und Nenner mal Nenner.
+
+10
+00:00:35,188 --> 00:00:38,706
+Zwei Drittel mal drei Viertel.
+
+11
+00:00:38,706 --> 00:00:42,576
+Oben: zwei mal drei gleich sechs.
+
+12
+00:00:42,576 --> 00:00:46,563
+Unten: drei mal vier gleich zwölf.
+
+13
+00:00:46,563 --> 00:00:48,908
+Also sechs Zwölftel.
+
+14
+00:00:49,528 --> 00:00:53,242
+Und sechs Zwölftel kann man kürzen, durch
+sechs.
+
+15
+00:00:53,242 --> 00:00:54,789
+Das ergibt ein Halb.
+
+16
+00:00:55,409 --> 00:00:56,541
+Das war's schon.
+
+17
+00:00:56,541 --> 00:00:59,228
+Keine Tricks, kein gemeinsamer Nenner.
+
+18
+00:01:00,228 --> 00:01:03,106
+Kapitel zwei: Warum das stimmt.
+
+19
+00:01:03,906 --> 00:01:07,620
+Mal heißt bei Brüchen eigentlich: von.
+
+20
+00:01:07,620 --> 00:01:13,192
+Ein Halb mal ein Halb heißt: die Hälfte von
+einer Hälfte.
+
+21
+00:01:13,811 --> 00:01:16,260
+Stell dir eine Tafel Schokolade vor.
+
+22
+00:01:16,260 --> 00:01:18,300
+Die Hälfte davon ist das hier.
+
+23
+00:01:18,920 --> 00:01:22,048
+Und jetzt nimmst du davon wieder die
+Hälfte.
+
+24
+00:01:22,048 --> 00:01:25,247
+Was bleibt, ist ein Viertel der ganzen
+Tafel.
+
+25
+00:01:25,247 --> 00:01:28,162
+Ein Halb mal ein Halb gleich ein Viertel.
+
+26
+00:01:28,782 --> 00:01:31,824
+Jetzt zwei Drittel mal drei Viertel.
+
+27
+00:01:31,824 --> 00:01:37,486
+Wir teilen ein Rechteck senkrecht in
+Drittel und färben zwei davon.
+
+28
+00:01:38,106 --> 00:01:43,262
+Dann teilen wir es waagerecht in Viertel
+und färben drei davon.
+
+29
+00:01:43,882 --> 00:01:48,161
+Wo sich beide Farben überlappen, liegt das
+Ergebnis.
+
+30
+00:01:48,161 --> 00:01:51,783
+Zähl mal: sechs Felder sind doppelt
+gefärbt.
+
+31
+00:01:51,783 --> 00:01:54,663
+Und insgesamt gibt es zwölf Felder.
+
+32
+00:01:55,283 --> 00:01:58,894
+Sechs von zwölf, also sechs Zwölftel.
+
+33
+00:01:58,894 --> 00:02:01,821
+Genau das, was die Regel sagt!
+
+34
+00:02:01,821 --> 00:02:07,579
+Oben zählst du die überlappenden Felder,
+unten alle Felder.
+
+35
+00:02:08,199 --> 00:02:14,072
+Merk dir: Malnehmen mit einem Bruch kleiner
+als eins macht die Zahl kleiner.
+
+36
+00:02:14,072 --> 00:02:17,936
+Die Hälfte von etwas ist ja weniger als das
+Ganze.
+
+37
+00:02:18,936 --> 00:02:23,097
+Kapitel drei: Vorher kürzen spart Arbeit.
+
+38
+00:02:23,897 --> 00:02:27,312
+Bei großen Zahlen wird das Ergebnis schnell
+unhandlich.
+
+39
+00:02:27,312 --> 00:02:29,796
+Deshalb kürzt du am besten schon vorher.
+
+40
+00:02:30,416 --> 00:02:34,239
+Schau dir zwei Drittel mal drei Viertel
+nochmal an.
+
+41
+00:02:34,239 --> 00:02:37,538
+Die Drei steht einmal oben und einmal
+unten.
+
+42
+00:02:37,538 --> 00:02:40,162
+Die kannst du über Kreuz wegkürzen.
+
+43
+00:02:40,781 --> 00:02:45,799
+Und die Zwei oben und die Vier unten gehen
+beide durch zwei.
+
+44
+00:02:45,799 --> 00:02:50,566
+Aus der Zwei wird eine Eins, aus der Vier
+wird eine Zwei.
+
+45
+00:02:51,186 --> 00:02:56,131
+Übrig bleibt: eins mal eins durch eins mal
+zwei.
+
+46
+00:02:56,131 --> 00:02:58,294
+Also direkt ein Halb.
+
+47
+00:02:58,294 --> 00:03:00,457
+Viel kleinere Zahlen!
+
+48
+00:03:01,077 --> 00:03:05,554
+Wichtig: Über Kreuz kürzen darfst du nur
+beim Malnehmen.
+
+49
+00:03:05,554 --> 00:03:06,993
+Niemals beim Plus!
+
+50
+00:03:07,993 --> 00:03:12,301
+Kapitel vier: Ganze Zahl mal Bruch.
+
+51
+00:03:13,101 --> 00:03:15,162
+Drei mal zwei Fünftel.
+
+52
+00:03:15,162 --> 00:03:22,281
+Hier hilft ein kleiner Trick: Jede ganze
+Zahl ist ein Bruch mit Nenner eins.
+
+53
+00:03:22,281 --> 00:03:24,717
+Drei ist also drei Eintel.
+
+54
+00:03:25,337 --> 00:03:32,483
+Jetzt wieder die Regel: drei mal zwei
+gleich sechs, eins mal fünf gleich fünf.
+
+55
+00:03:32,483 --> 00:03:33,766
+Sechs Fünftel.
+
+56
+00:03:34,386 --> 00:03:39,661
+Anders gesagt: Die ganze Zahl wird nur mit
+dem Zähler malgenommen.
+
+57
+00:03:39,661 --> 00:03:41,100
+Der Nenner bleibt.
+
+58
+00:03:41,720 --> 00:03:48,927
+Das passt auch zur Vorstellung: Drei mal
+zwei Fünftel sind drei Portionen von zwei
+Fünfteln.
+
+59
+00:03:48,927 --> 00:03:50,416
+Also sechs Fünftel.
+
+60
+00:03:51,416 --> 00:03:55,010
+Kapitel fünf: Geteilt durch einen Bruch.
+
+61
+00:03:55,810 --> 00:03:57,995
+Jetzt wird es spannend.
+
+62
+00:03:57,995 --> 00:04:01,415
+Drei Viertel geteilt durch ein Halb.
+
+63
+00:04:02,035 --> 00:04:07,219
+Die Regel: Teilen durch einen Bruch heißt
+malnehmen mit dem Kehrwert.
+
+64
+00:04:07,219 --> 00:04:11,501
+Der Kehrwert ist einfach der Bruch auf den
+Kopf gestellt.
+
+65
+00:04:12,121 --> 00:04:17,867
+Der Kehrwert von ein Halb ist zwei Eintel,
+also zwei.
+
+66
+00:04:17,867 --> 00:04:20,144
+Aus geteilt wird mal.
+
+67
+00:04:20,764 --> 00:04:26,033
+Drei Viertel mal zwei Eintel gleich sechs
+Viertel.
+
+68
+00:04:26,033 --> 00:04:28,141
+Gekürzt: drei Halbe.
+
+69
+00:04:28,141 --> 00:04:29,827
+Also eineinhalb.
+
+70
+00:04:30,447 --> 00:04:31,753
+Aber warum?
+
+71
+00:04:31,753 --> 00:04:38,046
+Teilen fragt: Wie oft passt ein Halb in
+drei Viertel?
+
+72
+00:04:38,666 --> 00:04:41,082
+Ein Halb passt einmal ganz rein.
+
+73
+00:04:41,082 --> 00:04:44,028
+Und dann bleibt noch ein Viertel übrig.
+
+74
+00:04:44,028 --> 00:04:46,293
+Das ist genau ein halbes Halb.
+
+75
+00:04:46,913 --> 00:04:50,784
+Also passt ein Halb eineinhalb Mal in drei
+Viertel.
+
+76
+00:04:50,784 --> 00:04:52,910
+Genau wie die Rechnung sagt!
+
+77
+00:04:53,530 --> 00:04:59,582
+Übrigens: Wenn du durch einen Bruch kleiner
+als eins teilst, wird das Ergebnis größer.
+
+78
+00:04:59,582 --> 00:05:05,000
+Das fühlt sich komisch an, ist aber
+logisch: Kleine Stücke passen öfter rein.
+
+79
+00:05:06,000 --> 00:05:08,942
+Kapitel sechs: Brüche im Alltag.
+
+80
+00:05:09,742 --> 00:05:12,386
+Ein Rezept braucht drei Viertel Liter
+Milch.
+
+81
+00:05:12,386 --> 00:05:14,969
+Du willst aber nur das halbe Rezept kochen.
+
+82
+00:05:15,589 --> 00:05:18,569
+Also drei Viertel mal ein Halb.
+
+83
+00:05:18,569 --> 00:05:24,720
+Oben drei mal eins gleich drei, unten vier
+mal zwei gleich acht.
+
+84
+00:05:24,720 --> 00:05:28,180
+Du brauchst drei Achtel Liter Milch.
+
+85
+00:05:28,800 --> 00:05:35,952
+Noch ein Beispiel: Eine Pizza wird
+geviertelt, und du isst die Hälfte von
+einem Stück.
+
+86
+00:05:35,952 --> 00:05:40,359
+Ein Halb mal ein Viertel gleich ein Achtel
+der Pizza.
+
+87
+00:05:41,359 --> 00:05:44,943
+Kapitel sieben: Die drei häufigsten Fehler.
+
+88
+00:05:45,743 --> 00:05:50,418
+Fehler Nummer eins: Die Plus-Regel beim
+Malnehmen benutzen.
+
+89
+00:05:50,418 --> 00:05:54,697
+Zwei Fünftel mal drei Fünftel ist nicht
+sechs Fünftel.
+
+90
+00:05:54,697 --> 00:05:59,530
+Auch die Nenner werden malgenommen: sechs
+Fünfundzwanzigstel.
+
+91
+00:06:00,150 --> 00:06:04,624
+Fehler Nummer zwei: beim Teilen den
+falschen Bruch umdrehen.
+
+92
+00:06:04,624 --> 00:06:09,992
+Nur der zweite Bruch, der hinter dem
+Geteilt-Zeichen, wird zum Kehrwert.
+
+93
+00:06:09,992 --> 00:06:12,154
+Der erste bleibt, wie er ist.
+
+94
+00:06:12,774 --> 00:06:17,957
+Fehler Nummer drei: die ganze Zahl oben und
+unten malnehmen.
+
+95
+00:06:17,957 --> 00:06:22,276
+Drei mal zwei Fünftel ist nicht sechs
+Fünfzehntel.
+
+96
+00:06:22,276 --> 00:06:25,127
+Die Drei kommt nur in den Zähler.
+
+97
+00:06:25,747 --> 00:06:27,243
+Jetzt bist du dran!
+
+98
+00:06:27,243 --> 00:06:28,345
+Drei Aufgaben.
+
+99
+00:06:28,345 --> 00:06:31,022
+Pausiere das Video und rechne mit.
+
+100
+00:06:31,642 --> 00:06:36,107
+Aufgabe eins: zwei Fünftel mal drei
+Viertel.
+
+101
+00:06:36,107 --> 00:06:39,760
+Aufgabe zwei: vier mal zwei Neuntel.
+
+102
+00:06:39,760 --> 00:06:45,239
+Aufgabe drei: zwei Drittel geteilt durch
+vier Fünftel.
+
+103
+00:06:56,739 --> 00:06:57,660
+Lösungen!
+
+104
+00:06:57,660 --> 00:07:04,923
+Aufgabe eins: zwei mal drei gleich sechs,
+fünf mal vier gleich zwanzig.
+
+105
+00:07:04,923 --> 00:07:09,015
+Sechs Zwanzigstel, gekürzt drei Zehntel.
+
+106
+00:07:09,635 --> 00:07:15,277
+Aufgabe zwei: vier mal zwei gleich acht,
+der Nenner bleibt.
+
+107
+00:07:15,277 --> 00:07:16,520
+Acht Neuntel.
+
+108
+00:07:17,140 --> 00:07:24,769
+Aufgabe drei: mal den Kehrwert, also zwei
+Drittel mal fünf Viertel.
+
+109
+00:07:24,769 --> 00:07:30,006
+Das gibt zehn Zwölftel, gekürzt fünf
+Sechstel.
+
+110
+00:07:30,626 --> 00:07:31,506
+Alles richtig?
+
+111
+00:07:31,506 --> 00:07:33,642
+Dann schreib es in die Kommentare!
+
+112
+00:07:34,262 --> 00:07:41,252
+Kurz zusammengefasst: Beim Malnehmen
+rechnest du Zähler mal Zähler und Nenner
+mal Nenner.
+
+113
+00:07:41,252 --> 00:07:43,923
+Kürze am besten vorher über Kreuz.
+
+114
+00:07:43,923 --> 00:07:47,064
+Eine ganze Zahl kommt nur in den Zähler.
+
+115
+00:07:47,064 --> 00:07:52,248
+Und beim Teilen nimmst du mit dem Kehrwert
+des zweiten Bruchs mal.
+
+116
+00:07:52,868 --> 00:07:55,881
+Im nächsten Video geht es um
+Prozentrechnung.
+
+117
+00:07:55,881 --> 00:08:00,098
+Und warum du dafür eigentlich nur eine
+einzige Formel brauchst.
+
+118
+00:08:00,098 --> 00:08:02,575
+Abonnier, damit du es nicht verpasst.
+
+119
+00:08:02,575 --> 00:08:03,178
+Bis dann!

@@ -2,4 +2,5 @@
 @font-face{font-family:Caveat;font-weight:700;src:url(fonts/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SII.ttf)}
 html,body{margin:0;background:#000}canvas{display:block}</style></head><body>
 <canvas id="c" width="1920" height="1080"></canvas>
-<script src="hmain.js"></script></body></html>
+<script>Promise.all([document.fonts.load('700 40px Caveat'),document.fonts.load('600 38px Inter')]).then(()=>{const s=document.createElement('script');s.src='hmain.js';document.body.appendChild(s)})</script>
+</body></html>
