@@ -1,0 +1,8 @@
+"Alpha Centauri vs ONE dying ant" (66 s, vs-ant, 2026-11-23). Trend: #alphacentauri (NEW, x29.9 rising, TikTok Science 7d US) + #proximacentauri; idea = Breakthrough Starshot laser sail.
+Sources: engine.js, assets.js, scenes.js, tracks.js identical to projects/ant (copy them). base.js/sjhead.js from gem. Build: ./build.sh -> antmain.js.
+FIRST SPACE vs-ant: ant stands on a LIGHT SAIL (MSAIL: iridescent mirror square w/ glowing rim tubes, grid, gold StarChip) instead of a ground tile; walk=0 all video (no tile scroll).
+envBase() = deep space (ground:0, stars:1, fogD 1e7). parts/k_render.js: fg uses its own key light (KEYL mixed 70% with env.sun) + brighter sky hemi -> ant never a black silhouette when the star is behind him (backlit problem!).
+p_cam.js: D(az,el) direction helper; portrait view = only ~±15° horizontal / ±27° vertical -> place bg stars/planets within camera heading (az/el) +-12°; eye pulled back 1.17x.
+p_bg.js: EARTHB (planetMesh earth with clouds) shrinking after launch, SUNG/PROXS stars + BGPTS glows, FLOOP flare loops oriented with basisM(p,X,Y,Z,s), PROXB = tidally-locked planet with BAKED light (MAT.glass, sphC) – plain-lit planetMesh far away looked black.
+p_fg.js: laser beam = 3 additive BEAMC cylinders along DIRE (wider than the sail so it pokes out), speed streaks along DIRE, cosmic-ray zap streaks, colourful confetti, o.old aging (grey + droop) -> fall + x-eyes.
+p_over.js: calendar() 2D flip-calendar (years 2026->2047). audio_alpha.py: laser charge/launch, munch, zaps, choir 3 suns, flare blast+glitch, ticking clock, sad trombone. Normalize: acompressor(-22dB,4:1)+loudnorm I=-11+alimiter 0.88 -> mean -17.8, max -0.7.
