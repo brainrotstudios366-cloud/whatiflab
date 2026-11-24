@@ -1,0 +1,93 @@
+Fünf hoch null ist eins. Nicht null. Eins! Und hundert hoch null? Auch eins.
+
+Das klingt falsch, oder? Heute siehst du, warum das gar nicht anders sein kann. Und du lernst alle Potenzregeln, die du für die nächste Arbeit brauchst.
+
+Kapitel eins: Was ist eine Potenz?
+
+Zwei hoch fünf heißt: Nimm die Zwei fünfmal als Faktor. Also zwei mal zwei mal zwei mal zwei mal zwei, gleich zweiunddreißig.
+
+Die untere Zahl heißt Basis. Das ist die Zahl, die malgenommen wird. Die kleine Zahl oben heißt Exponent. Sie sagt, wie oft.
+
+Potenzen sind also nur eine Abkürzung. Statt zehn mal zehn mal zehn schreibst du einfach zehn hoch drei. Das ist tausend.
+
+Wichtig: Ein Exponent von eins ändert nichts. Sieben hoch eins ist einfach sieben.
+
+Kapitel zwei: Die häufigste Verwechslung.
+
+Zwei hoch drei ist nicht zwei mal drei! Zwei mal drei ist sechs. Aber zwei hoch drei ist zwei mal zwei mal zwei, also acht.
+
+Bei großen Zahlen wird der Unterschied riesig. Zehn mal zehn ist hundert. Aber zehn hoch zehn ist zehn Milliarden.
+
+Ein Beispiel aus dem echten Leben: Ein Gerücht wird jeden Tag an zwei neue Leute weitererzählt. Nach zehn Tagen sind das zwei hoch zehn, also über tausend Leute.
+
+Kapitel drei: Die Treppe nach unten.
+
+Jetzt kommt der Trick. Schau dir diese Treppe an. Zwei hoch vier ist sechzehn. Zwei hoch drei ist acht. Zwei hoch zwei ist vier. Zwei hoch eins ist zwei.
+
+Was passiert bei jeder Stufe nach unten? Der Exponent wird um eins kleiner. Und das Ergebnis wird jedes Mal durch zwei geteilt.
+
+Also gehen wir einfach eine Stufe weiter. Zwei geteilt durch zwei ist eins. Also ist zwei hoch null gleich eins!
+
+Und das klappt mit jeder Zahl. Bei fünf teilst du jedes Mal durch fünf. Fünf hoch eins ist fünf, geteilt durch fünf ist eins. Also ist auch fünf hoch null gleich eins.
+
+Und die Treppe geht sogar weiter. Eins geteilt durch zwei ist ein halb. Also ist zwei hoch minus eins gleich ein halb. Und zwei hoch minus zwei ist ein Viertel.
+
+Kapitel vier: Die Potenzgesetze.
+
+Gesetz Nummer eins: Gleiche Basis malnehmen. Zwei hoch drei mal zwei hoch zwei. Das sind drei Zweien und noch zwei Zweien. Zusammen fünf Zweien. Also zwei hoch fünf.
+
+Die Regel: Bei gleicher Basis werden die Exponenten addiert. Nicht malgenommen!
+
+Gesetz Nummer zwei: Gleiche Basis teilen. Zwei hoch fünf geteilt durch zwei hoch drei. Drei Zweien kürzen sich weg, zwei bleiben übrig. Also zwei hoch zwei.
+
+Beim Teilen werden die Exponenten also subtrahiert. Und jetzt aufgepasst: Zwei hoch drei geteilt durch zwei hoch drei. Das ist natürlich eins. Aber mit der Regel ist es zwei hoch drei minus drei, also zwei hoch null. Wieder eins! Der zweite Beweis.
+
+Merk dir also: Hoch null ist immer eins, weil man eine Zahl durch sich selbst teilt. Mit der Treppe und mit der Teilregel kommst du jedes Mal auf dasselbe.
+
+Kurze Pause! Wenn dir das bis hierhin hilft, lass ein Like da und abonnier den Kanal. Hier kommen jede Woche neue Mathe-Themen, einfach erklärt, mit Tipps für die nächste Klassenarbeit. Und jetzt kommt noch eine Regel, die viele verwechseln!
+
+Kapitel fünf: Potenz von einer Potenz.
+
+Zwei hoch drei, und das Ganze hoch zwei. Das heißt: Zwei hoch drei mal zwei hoch drei. Also drei Zweien und noch drei Zweien, zusammen sechs.
+
+Hier werden die Exponenten also malgenommen. Drei mal zwei gleich sechs. Zwei hoch drei hoch zwei ist zwei hoch sechs, also vierundsechzig.
+
+Merk dir den Unterschied: Zwei Potenzen nebeneinander malnehmen heißt Exponenten addieren. Eine Potenz hoch eine Zahl heißt Exponenten malnehmen.
+
+Probier es selbst: Drei hoch zwei, und das Ganze hoch zwei. Das ist drei hoch vier, also einundachtzig.
+
+Kapitel sechs: Negative Exponenten.
+
+Ein negativer Exponent macht die Zahl nicht negativ! Er bedeutet: eins geteilt durch die Potenz. Zehn hoch minus drei ist eins durch zehn hoch drei, also eins durch tausend.
+
+Das ist null Komma null null eins. Genau so schreiben Wissenschaftler sehr kleine Zahlen. Ein Bakterium ist etwa zehn hoch minus sechs Meter groß. Also ein Millionstel Meter.
+
+Und große Zahlen genauso: Die Erde ist ungefähr eins Komma fünf mal zehn hoch elf Meter von der Sonne entfernt. Viel kürzer als einhundertfünfzig Milliarden auszuschreiben.
+
+Kapitel sieben: Und was ist null hoch null?
+
+Das ist eine echte Streitfrage. Viele Mathematiker setzen null hoch null auf eins, weil es in vielen Formeln praktisch ist. Andere sagen, es ist nicht definiert. In der Schule wird das aber fast nie abgefragt. Also keine Panik!
+
+Kapitel acht: Die drei häufigsten Fehler.
+
+Fehler Nummer eins: Basis mal Exponent rechnen. Zwei hoch drei ist acht, nicht sechs.
+
+Fehler Nummer zwei: Bei gleicher Basis die Exponenten malnehmen. Zwei hoch drei mal zwei hoch zwei ist zwei hoch fünf, nicht zwei hoch sechs.
+
+Fehler Nummer drei: Denken, ein negativer Exponent macht die Zahl negativ. Zwei hoch minus eins ist ein halb, nicht minus zwei.
+
+Jetzt bist du dran! Drei Aufgaben. Pausiere das Video und rechne mit.
+
+Aufgabe eins: drei hoch null plus drei hoch eins. Aufgabe zwei: zwei hoch vier mal zwei hoch drei. Aufgabe drei: zehn hoch minus zwei als Kommazahl.
+
+Lösungen! Aufgabe eins: Drei hoch null ist eins, drei hoch eins ist drei. Zusammen vier.
+
+Aufgabe zwei: Exponenten addieren. Zwei hoch sieben, also hundertachtundzwanzig.
+
+Aufgabe drei: eins durch hundert, also null Komma null eins.
+
+Alles richtig? Dann schreib es in die Kommentare!
+
+Kurz zusammengefasst: Eine Potenz ist wiederholtes Malnehmen. Jede Zahl hoch null ist eins, das zeigt die Treppe. Gleiche Basis malnehmen heißt Exponenten addieren, teilen heißt subtrahieren, und Potenz hoch Zahl heißt malnehmen. Und negative Exponenten bedeuten eins durch.
+
+Im nächsten Video geht es um den Satz des Pythagoras. Und warum er bei jedem rechtwinkligen Dreieck stimmt. Abonnier, damit du es nicht verpasst. Bis dann!
