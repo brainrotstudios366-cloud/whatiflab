@@ -1,0 +1,101 @@
+Wie hoch ist dieser Baum? Ohne hochzuklettern. Ohne Maßband.
+
+Du brauchst nur zwei Dinge: deinen Abstand zum Baum und einen Winkel. Genau dafür gibt es Sinus, Kosinus und Tangens. Und heute verstehst du endlich, was wirklich dahintersteckt.
+
+Kapitel eins: Die Seiten im rechtwinkligen Dreieck.
+
+Sinus, Kosinus und Tangens gelten im rechtwinkligen Dreieck. Also in einem Dreieck, das einen Winkel von genau neunzig Grad hat.
+
+Die längste Seite liegt immer gegenüber vom rechten Winkel. Sie heißt Hypotenuse.
+
+Jetzt schauen wir auf einen anderen Winkel, den nennen wir Alpha. Die Seite, die Alpha gegenüberliegt, heißt Gegenkathete.
+
+Und die Seite, die direkt an Alpha anliegt, heißt Ankathete. An wie anliegend.
+
+Ganz wichtig: Gegenkathete und Ankathete hängen vom Winkel ab. Schaust du vom anderen Winkel aus, tauschen die beiden ihre Rollen!
+
+Kapitel zwei: Das Geheimnis der Verhältnisse.
+
+Hier sind drei Dreiecke. Klein, mittel und groß. Aber alle haben genau den gleichen Winkel: dreißig Grad.
+
+Beim kleinen Dreieck ist die Gegenkathete eins und die Hypotenuse zwei. Eins durch zwei ist null Komma fünf.
+
+Beim mittleren: zwei durch vier. Wieder null Komma fünf. Beim großen: drei durch sechs. Wieder null Komma fünf!
+
+Egal wie groß das Dreieck ist: Bei dreißig Grad ist dieses Verhältnis immer null Komma fünf. Und genau das ist der Sinus. Sinus von dreißig Grad gleich null Komma fünf.
+
+Der Winkel bestimmt also das Verhältnis der Seiten. Und dein Taschenrechner kennt diese Verhältnisse für jeden Winkel.
+
+Kapitel drei: Sinus, Kosinus und Tangens.
+
+Der Sinus ist Gegenkathete durch Hypotenuse.
+
+Der Kosinus ist Ankathete durch Hypotenuse.
+
+Und der Tangens ist Gegenkathete durch Ankathete.
+
+Merken kannst du dir das mit einem Trick: Gaga Hühnerhof AG. G durch H, A durch H, G durch A. Sinus, Kosinus, Tangens.
+
+Kapitel vier: Eine Seite berechnen.
+
+Eine Leiter ist fünf Meter lang und lehnt an einer Wand. Mit dem Boden bildet sie einen Winkel von siebzig Grad. Wie weit steht sie unten von der Wand weg?
+
+Zuerst die Seiten bestimmen. Die Leiter ist die Hypotenuse. Gesucht ist der Abstand am Boden. Der liegt am Winkel an, also ist er die Ankathete.
+
+Ankathete und Hypotenuse, das ist der Kosinus. Kosinus von siebzig Grad gleich Ankathete durch fünf.
+
+Mal fünf auf beiden Seiten: Ankathete gleich fünf mal Kosinus von siebzig Grad. Der Taschenrechner sagt: Kosinus von siebzig ist ungefähr null Komma drei vier. Mal fünf gibt etwa eins Komma sieben Meter.
+
+Und wie hoch reicht die Leiter an der Wand? Das ist die Gegenkathete. Fünf mal Sinus von siebzig Grad, also etwa vier Komma sieben Meter.
+
+Kapitel fünf: Einen Winkel berechnen.
+
+Jetzt kennst du zwei Seiten und suchst den Winkel. Ein Dach steigt drei Meter hoch, auf vier Meter Breite. Wie steil ist das Dach?
+
+Gegenkathete drei, Ankathete vier. Das ist der Tangens. Tangens von Alpha gleich drei Viertel, also null Komma sieben fünf.
+
+Um den Winkel zu bekommen, rechnest du rückwärts. Auf dem Taschenrechner drückst du Shift und dann Tangens. Das heißt Tangens hoch minus eins.
+
+Tangens hoch minus eins von null Komma sieben fünf ergibt ungefähr sechsunddreißig Komma neun Grad. Ganz schön steil!
+
+Kapitel sechs: Der Einheitskreis.
+
+Jetzt ein Trick, der alles noch klarer macht. Wir machen die Hypotenuse genau eins lang. Ein Kreis mit dem Radius eins heißt Einheitskreis.
+
+Dann ist der Sinus einfach die Höhe des Punktes. Denn Gegenkathete durch eins ist einfach die Gegenkathete. Und der Kosinus ist die Breite.
+
+Dreh den Winkel größer, dann wächst der Sinus, und der Kosinus wird kleiner. Bei null Grad ist der Sinus null. Bei neunzig Grad ist er genau eins.
+
+Deshalb liegen Sinus und Kosinus im rechtwinkligen Dreieck immer zwischen null und eins. Kommt bei dir mehr als eins raus, hast du dich verrechnet!
+
+Kapitel sieben: Wie hoch ist der Baum?
+
+Zurück zum Anfang. Du stehst zwanzig Meter vom Baum entfernt und siehst die Spitze unter einem Winkel von fünfunddreißig Grad.
+
+Gesucht ist die Höhe, das ist die Gegenkathete. Bekannt ist der Abstand, das ist die Ankathete. Gegenkathete und Ankathete, das ist der Tangens.
+
+Also: Höhe gleich zwanzig mal Tangens von fünfunddreißig Grad. Das ist ungefähr zwanzig mal null Komma sieben, also rund vierzehn Meter. Ganz ohne Klettern!
+
+Kapitel acht: Die drei häufigsten Fehler.
+
+Fehler Nummer eins: Der Taschenrechner steht auf RAD statt auf DEG. Dann kommt Unsinn raus, zum Beispiel ein negativer Sinus von dreißig. Achte darauf, dass oben D oder DEG steht.
+
+Fehler Nummer zwei: Ankathete und Gegenkathete verwechseln. Frag dich immer zuerst: Von welchem Winkel aus schaue ich?
+
+Fehler Nummer drei: Sinus, Kosinus und Tangens in einem Dreieck ohne rechten Winkel benutzen. Diese Formeln gelten nur im rechtwinkligen Dreieck.
+
+Jetzt bist du dran! Drei Aufgaben. Pausiere das Video und rechne mit.
+
+Aufgabe eins: Hypotenuse acht, Winkel dreißig Grad. Wie lang ist die Gegenkathete? Aufgabe zwei: Ankathete zwölf, Winkel fünfundvierzig Grad. Wie lang ist die Gegenkathete? Aufgabe drei: Gegenkathete fünf, Hypotenuse zehn. Wie groß ist der Winkel?
+
+Lösungen! Aufgabe eins: Gegenkathete gleich acht mal Sinus von dreißig Grad. Also acht mal null Komma fünf, gleich vier.
+
+Aufgabe zwei: Gegenkathete gleich zwölf mal Tangens von fünfundvierzig Grad. Der Tangens von fünfundvierzig Grad ist genau eins. Also zwölf.
+
+Aufgabe drei: Sinus von Alpha gleich fünf durch zehn, also null Komma fünf. Und das kennst du schon: Alpha gleich dreißig Grad.
+
+Alles richtig? Dann schreib es in die Kommentare!
+
+Kurz zusammengefasst: Sinus, Kosinus und Tangens sind Verhältnisse von Seiten im rechtwinkligen Dreieck. Merk dir Gaga Hühnerhof AG. Für Seiten multiplizierst du, für Winkel rechnest du mit hoch minus eins rückwärts. Und stell den Taschenrechner auf DEG.
+
+Im nächsten Video geht es um negative Zahlen. Und warum minus mal minus plus ergibt. Abonnier, damit du es nicht verpasst. Bis dann!
