@@ -97,3 +97,10 @@ Numpy SFX script pattern: `projects/neptune/audio_nep.py` (helpers whoosh, chime
 - Append to `history.json`: `{date, slug, title, format, trend, hashtags, duration}`; commit & push:
   `git add -A && git commit -m "video: <slug>" && git -c push.negotiate=true push`. Never commit mp4/wav (see .gitignore).
 - If you improved a reusable part (new model, helper, fix), save it under `projects/<slug>/` (sources only) so later runs can reuse it.
+
+---------------------------------------------------------------------------------------------------
+## YouTube-Lernkanal (Deutsch, Mathe, Design "Karoheft") – Regeln des Owners
+- Lange Videos ≥ 8:00 (Mid-Roll) + 3 Shorts; Engine/Vorlage: neuestes `projects/<slug>` (trig, pq, brueche). Lieferung per SendUserFile + deutsche Texte (Titel, Beschreibung mit Kapiteln, Tags, Pin-Kommentar, Shorts-Texte).
+- **IMMER in der Mitte des Videos (≈ 45–55 %) ein kurzer Call-to-Action**: eigene VO-Zeile + Einblendung (Like 👍 + Abonnieren 🔔), z.B. "Kurze Pause: Wenn dir das bis hier hilft, lass ein Like da und abonnier – jede Woche neue Mathe-Themen und hilfreiche Tipps." Danach direkt weiter im Stoff.
+- Zusätzlich am Ende Abo-Aufruf + Teaser fürs nächste Video. Gern "Profi-Tipp"-Kästen im Video.
+- Dauer VOR der Vertonung schätzen (~13 Zeichen/s + 0.8 s Pause pro Zeile), sonst wird das Video zu kurz.
