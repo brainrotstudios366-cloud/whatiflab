@@ -104,3 +104,6 @@ Numpy SFX script pattern: `projects/neptune/audio_nep.py` (helpers whoosh, chime
 - **IMMER in der Mitte des Videos (≈ 45–55 %) ein kurzer Call-to-Action**: eigene VO-Zeile + Einblendung (Like 👍 + Abonnieren 🔔), z.B. "Kurze Pause: Wenn dir das bis hier hilft, lass ein Like da und abonnier – jede Woche neue Mathe-Themen und hilfreiche Tipps." Danach direkt weiter im Stoff.
 - Zusätzlich am Ende Abo-Aufruf + Teaser fürs nächste Video. Gern "Profi-Tipp"-Kästen im Video.
 - Dauer VOR der Vertonung schätzen (~13 Zeichen/s + 0.8 s Pause pro Zeile), sonst wird das Video zu kurz.
+- **Shorts (Daten 25.11.2026):** Nur Shorts bringen Reichweite (~1.150 Aufrufe bei Fehler-/Provokations-Titeln wie "3x = 12 – Fast alle rechnen FALSCH", "1/2 + 1/3 = 2/5?"; neutrale Titel ~10–30).
+  → Shorts NATIV im Hochformat 1080×1920 bauen (eigene kurze VO, Rechnung füllt den Bildschirm, große Schrift), NICHT als kleines 16:9-Inset.
+  → Erste Sekunde = Fehler/Behauptung groß im Bild + VO ("Fast alle rechnen das FALSCH:"). Titel nach Muster "Fehler? FALSCH!". Owner soll max. 1 Short/Tag posten.
