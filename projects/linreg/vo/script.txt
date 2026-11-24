@@ -1,0 +1,105 @@
+Du lernst eine Stunde mehr. Wie viele Punkte bringt dir das im nächsten Test?
+
+Genau so etwas kann Mathe vorhersagen. Mit einer einzigen Geraden. Das nennt man lineare Regression. Und heute verstehst du, wie sie funktioniert.
+
+Kapitel eins: Was ist lineare Regression?
+
+Stell dir vor, fünf Schüler schreiben einen Test. Wir notieren, wie viele Stunden jeder gelernt hat, und wie viele Punkte er bekommen hat.
+
+Jeder Schüler ist ein Punkt im Koordinatensystem. Nach rechts die Lernstunden, nach oben die Punkte im Test.
+
+Die Punkte liegen nicht genau auf einer Linie. Aber man sieht einen Trend: Wer mehr lernt, bekommt meistens mehr Punkte.
+
+Die lineare Regression sucht die Gerade, die diesen Trend am besten beschreibt. Man nennt sie auch Ausgleichsgerade oder Regressionsgerade.
+
+Und das ist nicht nur Schulstoff. Genau so beginnt künstliche Intelligenz. Die lineare Regression ist eines der einfachsten Modelle im maschinellen Lernen.
+
+Kapitel zwei: Welche Gerade ist die beste?
+
+Durch die Punkte kann man viele Geraden zeichnen. Diese hier ist zu flach. Diese ist zu steil. Und diese passt irgendwie besser. Aber wie misst man das?
+
+Wir schauen uns für jeden Punkt den Abstand zur Geraden an. Und zwar senkrecht, also von oben nach unten.
+
+Diese Abstände heißen Residuen. Ein Residuum ist der Fehler der Geraden an dieser Stelle. Liegt der Punkt über der Geraden, ist der Fehler positiv. Liegt er darunter, ist er negativ.
+
+Kapitel drei: Die Methode der kleinsten Quadrate.
+
+Man könnte die Fehler einfach addieren. Aber dann heben sich positive und negative Fehler gegenseitig auf. Eine total schlechte Gerade könnte so die Summe null haben.
+
+Deshalb quadriert man jeden Fehler. Quadrate sind immer positiv. Und große Fehler werden dadurch besonders stark bestraft.
+
+Und das kann man wirklich zeichnen: Jeder Fehler wird zu einem Quadrat. Die beste Gerade ist die, bei der die Fläche aller Quadrate zusammen am kleinsten ist.
+
+Daher kommt der Name: Methode der kleinsten Quadrate.
+
+Kapitel vier: Die Formel.
+
+Die Regressionsgerade hat die Form y gleich a plus b mal x. b ist die Steigung, a ist der Achsenabschnitt.
+
+Für die Steigung b gilt: Summe aus x minus x quer mal y minus y quer, geteilt durch die Summe aus x minus x quer zum Quadrat.
+
+x quer und y quer sind einfach die Mittelwerte. Und hier kommt ein schöner Trick: Der Punkt aus beiden Mittelwerten liegt immer genau auf der Regressionsgeraden.
+
+Deshalb gilt für den Achsenabschnitt: a gleich y quer minus b mal x quer.
+
+Kurze Pause! Wenn dir das Video bis hierhin hilft, lass ein Like da und abonnier den Kanal. Hier kommen jede Woche neue Mathe-Themen, einfach erklärt, mit hilfreichen Tipps für die nächste Klassenarbeit. Und jetzt rechnen wir das Ganze einmal komplett durch!
+
+Kapitel fünf: Schritt für Schritt.
+
+Unsere Daten: eins, zwei, drei, vier und fünf Stunden gelernt. Die Punkte im Test: vier, fünf, acht, neun und neun.
+
+Schritt eins: die Mittelwerte. x quer ist fünfzehn durch fünf, also drei. y quer ist fünfunddreißig durch fünf, also sieben.
+
+Schritt zwei: Von jedem Wert den Mittelwert abziehen. Bei x ergibt das minus zwei, minus eins, null, eins und zwei. Bei y ergibt das minus drei, minus zwei, eins, zwei und zwei.
+
+Schritt drei: Die Abweichungen paarweise malnehmen und addieren. Sechs plus zwei plus null plus zwei plus vier gleich vierzehn.
+
+Schritt vier: Die x-Abweichungen quadrieren und addieren. Vier plus eins plus null plus eins plus vier gleich zehn.
+
+Also ist die Steigung b gleich vierzehn durch zehn, gleich eins Komma vier. Und a ist sieben minus eins Komma vier mal drei, also zwei Komma acht.
+
+Unsere Regressionsgerade lautet: y gleich zwei Komma acht plus eins Komma vier mal x.
+
+Profi-Tipp: Viele Taschenrechner können das im Statistik-Modus automatisch. In der Klassenarbeit musst du aber oft den Rechenweg zeigen. Also lieber einmal selbst können!
+
+Kapitel sechs: Vorhersagen.
+
+Jetzt kommt das Beste. Wie viele Punkte bekommt jemand, der sechs Stunden lernt? Einfach einsetzen: zwei Komma acht plus eins Komma vier mal sechs, gleich elf Komma zwei Punkte.
+
+Die Steigung sagt außerdem: Jede Stunde mehr lernen bringt im Schnitt eins Komma vier Punkte mehr.
+
+Aber Vorsicht! Bei zwanzig Stunden würde die Gerade dreißig Komma acht Punkte vorhersagen. Der Test hat aber nur fünfzehn Punkte. Die Gerade gilt nur ungefähr im Bereich der Daten. Weit außerhalb wird es Unsinn.
+
+Kapitel sieben: Wie gut passt die Gerade?
+
+Dafür gibt es den Korrelationskoeffizienten r. Er liegt immer zwischen minus eins und plus eins.
+
+Nahe plus eins heißt: starker steigender Zusammenhang. Nahe minus eins: starker fallender Zusammenhang. Und nahe null: gar kein linearer Zusammenhang.
+
+Bei unseren Daten ist r ungefähr null Komma neun vier. Ein sehr starker Zusammenhang!
+
+Aber Achtung: Korrelation heißt nicht Ursache. Im Sommer steigen Eisverkauf und Sonnenbrände gleichzeitig. Trotzdem bekommst du vom Eis keinen Sonnenbrand. Beides kommt von der Sonne.
+
+Kapitel acht: Die drei häufigsten Fehler.
+
+Fehler Nummer eins: weit außerhalb der Daten vorhersagen. Die Gerade weiß nichts über Werte, die sie nie gesehen hat.
+
+Fehler Nummer zwei: aus einer Korrelation sofort eine Ursache machen. Ein Zusammenhang allein beweist noch nichts.
+
+Fehler Nummer drei: Ausreißer übersehen. Ein einziger extremer Punkt kann die ganze Gerade schief ziehen. Schau dir deshalb immer zuerst die Punkte an.
+
+Jetzt bist du dran! Drei Aufgaben. Pausiere das Video und rechne mit.
+
+Aufgabe eins: Die Mittelwerte sind x quer gleich vier und y quer gleich zehn. Die Steigung ist zwei. Wie groß ist a? Aufgabe zwei: Die Gerade lautet y gleich zwei plus zwei x. Was sagt sie für x gleich fünf voraus? Aufgabe drei: r ist minus null Komma neun. Was bedeutet das?
+
+Lösungen! Aufgabe eins: a gleich y quer minus b mal x quer. Also zehn minus zwei mal vier, gleich zwei.
+
+Aufgabe zwei: zwei plus zwei mal fünf, gleich zwölf.
+
+Aufgabe drei: Ein starker fallender Zusammenhang. Wenn x größer wird, wird y meistens kleiner.
+
+Alles richtig? Dann schreib es in die Kommentare!
+
+Kurz zusammengefasst: Die lineare Regression findet die Gerade, die am besten durch eine Punktwolke passt. Die beste Gerade hat die kleinste Summe der quadrierten Fehler. Der Mittelwert-Punkt liegt immer auf ihr. Und vorsichtig sein bei Vorhersagen weit außerhalb der Daten.
+
+Im nächsten Video geht es um negative Zahlen. Und warum minus mal minus plus ergibt. Abonnier, damit du es nicht verpasst. Bis dann!

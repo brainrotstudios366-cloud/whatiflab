@@ -647,5 +647,20 @@
    "trigonometrie"
   ],
   "duration": 482
+ },
+ {
+  "date": "2026-11-24",
+  "slug": "linreg",
+  "title": "Lineare Regression – einfach erklärt",
+  "format": "YouTube long (Karoheft) + 3 Shorts, mit Mitte-CTA",
+  "trend": "Wunsch des Owners (Statistik/Oberstufe, KI-Bezug)",
+  "hashtags": [
+   "mathe",
+   "statistik",
+   "regression",
+   "abitur",
+   "ki"
+  ],
+  "duration": 526
  }
 ]
