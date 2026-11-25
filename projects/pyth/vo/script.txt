@@ -1,0 +1,97 @@
+Ein Fernseher mit fünfundfünfzig Zoll ist gar nicht fünfundfünfzig Zoll breit. Die Zahl ist die Diagonale. Und die berechnest du mit einer der berühmtesten Formeln der Welt.
+
+a Quadrat plus b Quadrat gleich c Quadrat. Der Satz des Pythagoras. Heute lernst du nicht nur, wie man ihn benutzt, sondern warum er immer stimmt. Mit einem Beweis, den man sehen kann.
+
+Kapitel eins: Das rechtwinklige Dreieck.
+
+Der Satz des Pythagoras gilt nur in einem rechtwinkligen Dreieck. Also in einem Dreieck mit genau einem Winkel von neunzig Grad.
+
+Die beiden Seiten, die den rechten Winkel bilden, heißen Katheten. Wir nennen sie a und b.
+
+Die längste Seite liegt gegenüber vom rechten Winkel. Sie heißt Hypotenuse, und wir nennen sie c.
+
+Der Satz sagt: a Quadrat plus b Quadrat gleich c Quadrat. Aber was soll das eigentlich bedeuten?
+
+Kapitel zwei: Was bedeutet a Quadrat?
+
+a Quadrat ist wirklich ein Quadrat! Ein Quadrat mit der Seitenlänge a. Seine Fläche ist a mal a.
+
+Nehmen wir ein Dreieck mit den Katheten drei und vier. Auf die Seite a malen wir ein Quadrat: drei mal drei, also neun Kästchen.
+
+Auf die Seite b kommt ein Quadrat mit vier mal vier, also sechzehn Kästchen. Zusammen sind das fünfundzwanzig Kästchen.
+
+Und jetzt das Quadrat auf der Hypotenuse. Es hat genau fünfundzwanzig Kästchen! Die Hypotenuse ist also fünf lang.
+
+Das ist der ganze Satz des Pythagoras: Die beiden kleinen Quadrate zusammen sind genauso groß wie das große Quadrat.
+
+Kapitel drei: Der Beweis zum Sehen.
+
+Warum klappt das bei jedem rechtwinkligen Dreieck? Schau dir dieses große Quadrat an. Seine Seite ist a plus b lang.
+
+Wir legen vier gleiche Dreiecke hinein, eins in jede Ecke. In der Mitte bleibt ein schräges Quadrat übrig. Seine Seite ist c. Die freie Fläche ist also c Quadrat.
+
+Jetzt schieben wir die gleichen vier Dreiecke einfach um. Das große Quadrat bleibt gleich groß. Aber jetzt bleiben zwei Quadrate frei: a Quadrat und b Quadrat.
+
+Gleiches großes Quadrat, gleiche vier Dreiecke. Also muss auch die freie Fläche gleich groß sein. a Quadrat plus b Quadrat ist gleich c Quadrat. Bewiesen!
+
+Kapitel vier: Die Hypotenuse berechnen.
+
+Ein Dreieck hat die Katheten sechs und acht Zentimeter. Wie lang ist die Hypotenuse?
+
+Schritt eins: quadrieren. Sechs Quadrat ist sechsunddreißig, acht Quadrat ist vierundsechzig.
+
+Schritt zwei: addieren. Sechsunddreißig plus vierundsechzig gleich hundert. Also ist c Quadrat gleich hundert.
+
+Schritt drei: die Wurzel ziehen. Die Wurzel aus hundert ist zehn. Die Hypotenuse ist zehn Zentimeter lang.
+
+Kapitel fünf: Eine Kathete berechnen.
+
+Jetzt kennst du die Hypotenuse, dreizehn, und eine Kathete, fünf. Gesucht ist die andere Kathete.
+
+Hier musst du umstellen. b Quadrat gleich c Quadrat minus a Quadrat. Also hundertneunundsechzig minus fünfundzwanzig gleich hundertvierundvierzig.
+
+Die Wurzel aus hundertvierundvierzig ist zwölf. Die fehlende Kathete ist zwölf lang.
+
+Merk dir: Suchst du die längste Seite, wird addiert. Suchst du eine kürzere Seite, wird subtrahiert.
+
+Kurze Pause! Wenn dir das bis hierhin hilft, lass ein Like da und abonnier den Kanal. Hier kommen jede Woche neue Mathe-Themen, einfach erklärt, mit Tipps für die nächste Klassenarbeit. Und jetzt: Pythagoras im echten Leben!
+
+Kapitel sechs: Pythagoras im Alltag.
+
+Eine Leiter ist fünf Meter lang. Ihr Fuß steht drei Meter von der Wand entfernt. Wie hoch reicht sie? Fünf Quadrat minus drei Quadrat ist fünfundzwanzig minus neun, also sechzehn. Die Wurzel ist vier. Die Leiter reicht vier Meter hoch.
+
+Und der Fernseher vom Anfang? Bei fünfundfünfzig Zoll im Format sechzehn zu neun ist der Bildschirm nur etwa achtundvierzig Zoll breit. Das sind ungefähr hundertzweiundzwanzig Zentimeter.
+
+Auch Handwerker nutzen den Satz. Mit den Längen drei, vier und fünf prüfen sie, ob eine Ecke wirklich rechtwinklig ist. Stimmt die Diagonale, ist der Winkel genau neunzig Grad.
+
+Kapitel sieben: Die Zauberzahlen.
+
+Drei, vier, fünf ist ein pythagoreisches Tripel. Das sind drei ganze Zahlen, die genau in die Formel passen.
+
+Weitere Beispiele sind fünf, zwölf, dreizehn und acht, fünfzehn, siebzehn. Und jedes Vielfache klappt auch: sechs, acht, zehn ist einfach drei, vier, fünf mal zwei.
+
+Solche Zahlen kannten die Menschen schon lange vor Pythagoras. Die Babylonier schrieben vor fast viertausend Jahren solche Zahlen auf eine Tontafel.
+
+Kapitel acht: Die drei häufigsten Fehler.
+
+Fehler Nummer eins: einfach a plus b rechnen. Drei plus vier ist sieben, aber die Hypotenuse ist fünf. Ohne Quadrate geht es nicht.
+
+Fehler Nummer zwei: die Wurzel vergessen. Wenn c Quadrat fünfundzwanzig ist, dann ist c nicht fünfundzwanzig, sondern fünf.
+
+Fehler Nummer drei: Bei einer Kathete addieren statt subtrahieren. Die Kathete muss immer kürzer sein als die Hypotenuse.
+
+Jetzt bist du dran! Drei Aufgaben. Pausiere das Video und rechne mit.
+
+Aufgabe eins: Die Katheten sind neun und zwölf. Wie lang ist die Hypotenuse? Aufgabe zwei: Die Hypotenuse ist zehn, eine Kathete sechs. Wie lang ist die andere? Aufgabe drei: Ist ein Dreieck mit den Seiten sieben, vierundzwanzig und fünfundzwanzig rechtwinklig?
+
+Lösungen! Aufgabe eins: einundachtzig plus hundertvierundvierzig gleich zweihundertfünfundzwanzig. Die Wurzel ist fünfzehn.
+
+Aufgabe zwei: hundert minus sechsunddreißig gleich vierundsechzig. Die Wurzel ist acht.
+
+Aufgabe drei: neunundvierzig plus fünfhundertsechsundsiebzig gleich sechshundertfünfundzwanzig. Und fünfundzwanzig Quadrat ist genau sechshundertfünfundzwanzig. Also ja, rechtwinklig!
+
+Alles richtig? Dann schreib es in die Kommentare!
+
+Kurz zusammengefasst: Im rechtwinkligen Dreieck gilt a Quadrat plus b Quadrat gleich c Quadrat. Die Quadrate sind echte Flächen, und der Umleg-Beweis zeigt, warum es immer stimmt. Für die Hypotenuse addieren, für eine Kathete subtrahieren. Und am Ende immer die Wurzel ziehen.
+
+Im nächsten Video geht es um die binomischen Formeln. Und warum a plus b zum Quadrat nicht a Quadrat plus b Quadrat ist. Abonnier, damit du es nicht verpasst. Bis dann!

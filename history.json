@@ -690,5 +690,19 @@
    "mathetricks"
   ],
   "duration": 484
+ },
+ {
+  "date": "2026-11-25",
+  "slug": "pyth",
+  "title": "Satz des Pythagoras – der Beweis zum Sehen",
+  "format": "YouTube long (Karoheft, Mitte-CTA 48%) + 5 native 9:16 Shorts (FALSCH-Hook + Beweis-Animation)",
+  "trend": "angekündigt im Potenzen-Video; FALSCH-Shorts funktionieren",
+  "hashtags": [
+   "mathe",
+   "pythagoras",
+   "satzdespythagoras",
+   "mathetricks"
+  ],
+  "duration": 482
  }
 ]
