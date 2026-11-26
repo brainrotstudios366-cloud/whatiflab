@@ -107,4 +107,5 @@ Numpy SFX script pattern: `projects/neptune/audio_nep.py` (helpers whoosh, chime
 - **Shorts (Daten 25.11.2026):** Nur Shorts bringen Reichweite (~1.150 Aufrufe bei Fehler-/Provokations-Titeln wie "3x = 12 – Fast alle rechnen FALSCH", "1/2 + 1/3 = 2/5?"; neutrale Titel ~10–30).
   → Shorts NATIV im Hochformat 1080×1920 bauen (eigene kurze VO, Rechnung füllt den Bildschirm, große Schrift), NICHT als kleines 16:9-Inset.
   → BESTÄTIGT 27.11.2026: native 9:16-Shorts mit FALSCH-Stempel sind Top-Shorts ("−3² = 9? FALSCH!" Platz 1; "Minus mal Minus – WARUM?" 948 Aufrufe in 2 h). Kanal 9 → 17 Abos, 8.8k Aufrufe/7 Tage.
+  → Stand 26.11.2026 (Kanal 3 Tage alt): 26 Abos, 14.5k Aufrufe; Top-Shorts: "−3 − 5 = +8? FALSCH!" > "3x = 12 FALSCH" > "−3² = 9? FALSCH!".
   → Erste Sekunde = Fehler/Behauptung groß im Bild + VO ("Fast alle rechnen das FALSCH:"). Titel nach Muster "Fehler? FALSCH!". Owner soll max. 1 Short/Tag posten.
