@@ -109,3 +109,7 @@ Numpy SFX script pattern: `projects/neptune/audio_nep.py` (helpers whoosh, chime
   → BESTÄTIGT 27.11.2026: native 9:16-Shorts mit FALSCH-Stempel sind Top-Shorts ("−3² = 9? FALSCH!" Platz 1; "Minus mal Minus – WARUM?" 948 Aufrufe in 2 h). Kanal 9 → 17 Abos, 8.8k Aufrufe/7 Tage.
   → Stand 26.11.2026 (Kanal 3 Tage alt): 26 Abos, 14.5k Aufrufe; Top-Shorts: "−3 − 5 = +8? FALSCH!" > "3x = 12 FALSCH" > "−3² = 9? FALSCH!".
   → Erste Sekunde = Fehler/Behauptung groß im Bild + VO ("Fast alle rechnen das FALSCH:"). Titel nach Muster "Fehler? FALSCH!". Owner soll max. 1 Short/Tag posten.
+- **ANTI-MASSENPRODUKTION (26.11.2026, YouTube-Regel "inauthentic content"):** pro Kanal max. **2–3 lange Videos/Woche + 1 Short/Tag**. Owner spricht NICHT selbst (KI-Stimme bleibt).
+  → Jedes Video muss ANDERS aussehen/aufgebaut sein als das vorige (Branding/Logo bleibt): Hintergrund-Stil rotieren (Karoheft, Tafel/Kreide dunkel, Whiteboard, Blaupause, Notizzettel …), Intro-Typ rotieren (Fehler-Hook, Alltagsfrage, Rätsel/Challenge, Mini-Story, Mythos-Check), Kapitelzahl/Länge, Farben, Beispiele, Stimme/Tonfall variieren.
+  → Eigene Perspektive einbauen: persönliche Tipps ("viele machen hier …"), Bezug auf Kommentare/Zuschauerfragen, echte Anwendungen statt Standardbeispiele.
+  → Zweiter Kanal **RootWork Math** (Englisch, @RootWorkMath): gleiche Themen als englische Version, aber auch dort eigene Variation; Branding in projects/binom_en/.
