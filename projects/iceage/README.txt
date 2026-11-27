@@ -1,0 +1,7 @@
+"THE ICE AGE vs ONE dying ant" (66 s, vs-ant, 2026-11-27). Trend: #iceage (x4.05 rising, TikTok Animation 7d US; Ice Age: Boiling Point trailer) + #deathbattle (x5.65, rank 9).
+Sources: engine.js, assets.js, scenes.js, tracks.js identical to projects/ant (copy them). Build: ./build.sh -> antmain.js. Template = projects/hurricane (same timeline R/EV).
+Rounds: R1 −40 °C (frost tint o.frost + ICEB glass ice block grows, *CRACK* SHARD burst); R2 AVALANCHE (bg HCLOUD powder wall rolling in + fg SNOWSLAB front with powder puffs, ant buried, antennae poke out, pops up);
+R3 WOOLLY MAMMOTH (bg mammoth from MFUR blobs + swinging legs + MTRUNK/MTUSKS, walks toward low camera; fg MFOOT giant foot r=21 stomps beside the ant, camera looks up while it descends);
+R4 3 KM ICE SHEET (bg ICEWALL 24 km x 3 km glass wall, baked blue shading/crevasses, approaches; camera tilts up); FINAL ONE snowflake (SFLAKE emissive, drifts down, lands on head, squash pose, topples).
+New reusable: buildIceTile() snowy tundra (grass tufts, snow-capped rocks, emissive sparkles), snowy pine/mountain SF_BG, snow2D() canvas snowfall with blizzard streaks, frost vignette, ICICLE, SHARD, shards().
+Audio audio_ice.py (from audio_hur): blizzard bed, glass/ice_crack, avalanche roll, mammoth footsteps + trumpet, ice groan. Normalize: acompressor + loudnorm I=-12.5 + alimiter 0.88 level=disabled -> mean -18.3, max -1.4 (alimiter default level=enabled pushes max to 0 dB!).

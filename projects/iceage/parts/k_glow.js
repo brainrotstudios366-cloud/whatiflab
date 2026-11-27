@@ -1,0 +1,3 @@
+function glowAt(p,rad,col,a){if(!p||!(rad>0.5))return;const g=ctx.createRadialGradient(p[0],p[1],rad*0.1,p[0],p[1],rad);g.addColorStop(0,`rgba(${col},${a})`);g.addColorStop(1,`rgba(${col},0)`);ctx.fillStyle=g;ctx.fillRect(p[0]-rad,p[1]-rad,rad*2,rad*2)}
+function glitchFx(k){if(k<=0)return;for(let i=0;i<14;i++){const y=(hsh(i,Math.floor(k*40))*H)|0,h=8+hsh(i,7)*60;const dx=(hsh(i,Math.floor(k*30)+3)-0.5)*90*k;ctx.globalAlpha=0.5*k;ctx.drawImage(cv,0,y,W,h,dx,y,W,h)}
+  ctx.globalAlpha=1;ctx.globalCompositeOperation='screen';ctx.fillStyle=`rgba(255,40,200,${0.12*k})`;ctx.fillRect(0,0,W,H);ctx.globalCompositeOperation='source-over'}

@@ -1,0 +1,1 @@
+cd "$(dirname "$0")" && cat base.js sjhead.js parts/p1.js parts/k_cam.js parts/p_bg.js parts/p_fg.js parts/k_render.js parts/p_hud.js parts/k_ov.js parts/k_glow.js parts/p_over.js parts/k_frame.js > antmain.js
